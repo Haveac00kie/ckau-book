@@ -139,6 +139,16 @@ Toaplan 1
 Toaplan 2
 Taito F2, X, Z и другие</text>
 			<text lang="it">Final Burn Neo (alias FBNeo) è il nuovo ramo ufficiale dell'emulatore Final Burn Alpha, compatibile con centinaia di giochi arcade e per console. Il nucleo libretro di FBNeo porta la sua libreria di titoli compatibili a RetroArch, dove la stretta integrazione con le API libretro gli permette di lavorare con le funzioni avanzate di time-bending di RetroArch, come il netplay basato sul rollback e la riduzione della latenza runahead. Include preset di input per la mappatura automatica dei pulsanti per diversi giochi, compresi i layout dei giochi di combattimento per i controlli arcade moderni e della vecchia scuola (alias fightstick).</text>
+			<text lang="fr">Type : borne d'arcade
+Génération : depuis 1971
+Média : cartes PCB
+Contrôleur(s) : stick arcade & autres
+
+Il s'agit de la suite de Final Burn Alpha créé en 2004 par TrebbleWinner, lui-même basé sur Final Burn créé en 2000 par Dave et devenu FB Neo en 2019.
+Au fil du temps, ce projet est devenu l'un des meilleurs émulateurs d'arcade grâce à des optimisations très fréquentes.
+
+Il émule des sytèmes tels que MVS, CPS1, CPS2, System 16, System 18, X Board, Y Board de Sega, et tout une liste de jeux Cave Toaplan, Taito, Psikyo, Kaneko.
+A l'instar de MAME, il propose des fonctionnalités de filtres graphiques, sauvegardes, etc.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -128,6 +128,14 @@ Posiadał on procesor IBM-Motorola PowerPC 603e, który mógł pracować z częs
 Al momento dell'uscita, la scheda Model 3 era significativamente più potente di qualsiasi altra piattaforma arcade sul mercato, nonché di qualsiasi console o computer domestico dell'epoca, con una fedeltà grafica pari a quella del Dreamcast o persino di alcuni titoli della prima PlayStation 2; ci vollero diversi anni prima che i sistemi domestici si mettessero al passo.
 
 Aveva una CPU IBM-Motorola PowerPC 603e che poteva funzionare a 66, 100 o 166 MHz, 33 MB di RAM e due GPU Lockheed Martin Real3D/Pro-1000. Il Model 3 fu seguito dal Sega Naomi nel 1998, che utilizzava un'architettura simile a quella del Sega Dreamcast.</text>
+			<text lang="fr">Type : borne d'arcade
+Génération : cinquième
+Média : cartes PCB
+Contrôleur(s) : stick arcade et autres
+
+L'idée fût de repartir de zéro pour repenser entièrement un nouveau système, toujours en collaboration avec Lockheed Martin qui conçut les microprocesseurs graphiques Twin Real3D/Pro-1000.
+Il est équipé d'un processeur IBM-Motorola PowerPC 603e de 66, puis 100 et enfin 166 Mhz au fil des versions, ainsi que 8 Mb de RAM pour un rendu de 60 millions de pixels en 496x384 et de deux processeurs sonores Yamaha 64 canaux.
+Au moment de sa sortie, il était le système d'arcade le plus puissant du marché avec une capacité de plus d'1 million de polygones par seconde et des jeux comme Virtua Fighter 3.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

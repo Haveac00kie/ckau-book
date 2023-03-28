@@ -100,6 +100,15 @@ Oryginalna Cassette Vision firmy Epoch została wprowadzona na rynek japoński p
 Il Super Cassette Vision fu rilasciato nel 1984, con un processore a 8 bit e prestazioni migliori, più in linea con i suoi concorrenti. In seguito fu distribuito in Francia da ITMC con il marchio Yeno. Almeno 16 giochi furono portati dal Giappone per l'uscita europea. Una versione del sistema era destinata al mercato femminile, la Super Lady Cassette Vision. La console era confezionata in una custodia rosa, insieme al gioco Milky Princess.
 
 La console non decollò e non fu in grado di eguagliare l'enorme popolarità del Nintendo Famicom, portando Epoch ad abbandonare il mercato delle console nel 1987.</text>
+			<text lang="fr">Type : console de salon
+Génération : troisième
+Média : cartouche
+Contrôleur(s) : joypad et 2 boutons
+
+La Super Cassette Vision (スーパーカセットビジョン, Suupaa Kasetto Bijon) succède à la "Cassette Vision" sortie en 1981 et se une version remaniée, la "Cassette Vision Jr" avec qui la Super Cassette est seule compatible.
+Avec son processeur cloné du Z80, il affiche une résolution de 309 x 246 en 16 couleurs et 128 sprites simultanés mais le son est très limité. La console comprend aussi deux manettes intégrées sous le capot avant.
+
+Malgré tous ces atouts, elle ne peut tenir tête à la NES et sa ludothèque.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

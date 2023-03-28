@@ -106,6 +106,15 @@ CoCo, построенный на базе процессора Motorola 6809, �
 Il successo di questo computer spinse l'azienda a sviluppare nuovi progetti, dando vita a modelli compatibili con il TRS-80 e a modelli completamente diversi. L'azienda iniziò ad aggiungere TRS-80 al nome di computer completamente estranei al primo modello.
 
 Nel 1980 Tandy Corporation vendette 200.000 copie del TRS-80 Model I, diventando così il personal computer più venduto negli Stati Uniti.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette, disquette, disque dur
+Contrôleur(s) : clavier
+
+L'ordinateur couleur de RadioShack, dit CoCo, est basé sur le processeur Motorola 6809 et faisait partie de la gamme des TRS-80.
+Son processeur est cadencé à 0.895 MHz et jusqu'à 64 Ko de mémoire vive.
+Le CoCo II sera plus petit, disposera d'un meilleur clavier et sera capable d'afficher des minuscules.
+Le CoCo III sera équipé d'un processeur 68B09e doublant la fréquence d'origine, de 512 Ko de RAM et d'une nouvelle puce graphique "GIME" offrant une résolution maximale de 640 x 225 pixels et jusqu'à 16 couleurs parmi une palette de 64.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -114,6 +114,16 @@ Dane techniczne:
 
 Nella seconda metà degli anni '90 Telegames pubblicò una serie di giochi, tra cui un porting di Raiden e un platform chiamato Fat Bobby nel 1997, oltre a un gioco d'azione sportiva chiamato Hyperdrome nel 1999.
 Il 14 maggio 1999, Hasbro, che avrebbe continuato a detenere le proprietà di Atari fino alla vendita di Hasbro Interactive a Infogrames nel 2001, ha reso di pubblico dominio tutti i diritti relativi all'Atari Jaguar, dichiarandolo una piattaforma aperta; anche l'Atari Lynx, secondo le teorie di Internet, potrebbe essere stato reso pubblico nello stesso periodo del Jaguar, ma questo è chiaramente contestato. Tuttavia, da quando è stato dismesso, il Lynx, come il Jaguar, ha goduto di una vasta comunità che ha prodotto molti giochi homebrew di successo.</text>
+			<text lang="fr">Type : console portable
+Génération : quatrième
+Média : cartouche
+Contrôleur(s) : manette 2 boutons
+
+Développée sous le nom "Handy" en 1987 par Epyx, société rachetée par Atari en 1989, la console subit de légers changements avant de sortir sous le nom de Lynx.
+Equipée d'un processeur 4 MHz, un GPU 16 MHz avec support 3D et 64 Ko de RAM, elle affiche 480 x 102 en 16 couleurs. L'écran réversible permet aux gauchers de jouer en retournant la console et 8 joueurs peuvenr jouer ensemble en réseau.
+
+L'Atari Lynx est la seule console portable d'Atari et la première portable avec un écran LCD couleur; elle sort la même année que la Game Boy.
+Mais sa taille imposante et sa consommation en piles ne lui permettent pas de rencontrer le succès escompté.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

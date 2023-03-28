@@ -91,6 +91,14 @@ Dane techniczne:
 
 Другая модель консоли — GB-2000, более похожая внешне на Game Boy, была выпущена компаниями Audiosonic, Vini Spil и самой Watara. Третья модель — 9600, с похожим на GB-2000 корпусом, но сглаженными краями, была выпущена компаниями Magnus и Videojet. Эта модель была доступна в трёх цветовых вариантах — белая, синяя и жёлтая.</text>
 			<text lang="it">Il Watara Supervision, noto anche come QuickShot Supervision nel Regno Unito, è una console portatile monocromatica di origine asiatica, introdotta nel 1992 come concorrente a prezzo ridotto del Game Boy di Nintendo. Veniva fornita con un gioco chiamato Crystball, simile a Breakout. Una caratteristica unica del Supervision era la possibilità di collegarlo a un televisore tramite un cavo di collegamento. I giochi giocati in questo modo venivano visualizzati in quattro colori, proprio come il Super Game Boy add-on di Nintendo per il SNES. Era in progetto anche un collegamento televisivo a colori, ma a causa dell'insuccesso del Supervision tra i giocatori fu cancellato, insieme ai giochi che erano in fase di sviluppo per esso.</text>
+			<text lang="fr">Type : console portable
+Génération : quatrième
+Média : cartouche
+Contrôleur(s) : manette 2 boutons
+
+La Watara Supervision est une console portable monochrome originaire de Hong Kong pour concurrencer la Game Boy avec son écran plus large (6 x 6 cm) et son faible prix.
+Cependant, la console ne rencontre pas le succès escompté, notamment à cause de sa logithèque très réduite et à la qualité d'affichage de l'écran.
+Elle est distribuée en France par l'entreprise AudioSonic.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

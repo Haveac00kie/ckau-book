@@ -75,6 +75,16 @@ ScummVM jest reimplementacją części oprogramowania używanego do interpretowa
 			<text lang="it">Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) è un insieme di riproduzioni di motori di gioco. Originariamente progettato per riprodurre i giochi di avventura LucasArts che utilizzano il sistema SCUMM, supporta anche una serie di giochi non SCUMM di aziende come Revolution Software e Adventure Soft. È stato originariamente scritto da Ludvig Strigeus. Rilasciato secondo i termini della GNU General Public License, ScummVM è software libero.
 
 ScummVM è una reimplementazione della parte del software utilizzata per interpretare i linguaggi di scripting usati per descrivere il mondo di gioco, piuttosto che emulare l'hardware su cui i giochi giravano; per questo motivo, ScummVM permette di giocare ai giochi che supporta su piattaforme diverse da quelle per cui sono stati originariamente rilasciati.</text>
+			<text lang="fr">Type : moteur de jeu
+Génération : toutes
+Média : fichiers
+Contrôleur(s) : manette, clavier, souris
+
+ScummVM est d'abord un moteur conçu par l'éditeur Lucas Arts en 1987 pour un jeu d'aventure d'un nouveau genre, Maniac Mansion, dans le but de proposer une nouvelle expérience de jeu remplaçant les commandes au clavier par le pointage à la souris, le "point and click".
+Limité par la difficulté de programmer un tel jeu en assembleur, SCUMM (pour Script Creation Utility for Maniac Mansion) s'inspire d'un autre moteur, l'Adventure Game Interpreter de Sierra-On-Line.
+Scumm devient l'interpréteur de ressources des plus grands hits de l'éditeur : Monkey Island, Zak McKraken, Day of the Tentacle et autres Full Throttle.
+
+Devenu libre, une équipe monte le moteur en VM (machine virtuelle) en 2001 et prend le nom de ScummVM. Il devient à la fois multiformats, permettant même de jouer à des jeux non-SCUMM tels que King's Quest, Simon the Sorcerer, Beneath a Steel Sky, Leisure Suit Larry et bien d'autres jeux légendaires, et multiplateformes afin de pouvoir l'utiliser sur quantité de systèmes.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

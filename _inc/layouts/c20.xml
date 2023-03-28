@@ -90,6 +90,14 @@ Commodore VIC-20 был оснащён 8-разрядным микропроце
 			<text lang="it">Il Commodore VIC-20 (noto come VC-20 in Germania e VIC-1001 in Giappone) è stato un home computer a 8 bit venduto da Commodore Business Machines. Il VIC-20 fu annunciato nel 1980, circa tre anni dopo il primo personal computer di Commodore, il PET. Il VIC-20 è stato il primo computer di qualsiasi tipo a vendere un milione di unità. È stato descritto come "uno dei primi computer anti-speculatori, non esoterici per concezione... non più relegato agli hobbisti/entusiasti o a chi ha soldi, il computer sviluppato da Commodore era il computer del futuro".
 
 Il VIC-20 era chiamato VC-20 in Germania perché la pronuncia di VIC con accento tedesco assomiglia alle imprecazioni tedesche "fick" o "wichsen". Il termine VC fu commercializzato come se fosse un'abbreviazione di VolksComputer ("computer del popolo", simile a Volkswagen e Volksempfänger).</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cartouche, cassette
+Contrôleur(s) : joystick, clavier
+
+Le VIC-20 est un ordinateur personnel 8-bits avec 5 Ko de mémoire vive (dont 3.5 Ko pour les applications BASIC) et une unité centrale basée sur un processeur MOS 6502.
+Apparu en juin 1980, soit 2 ans et 9 mois après le PET, il fut conçu pour mieux concurrencer l'Apple ][ et le TRS-80. Toutefois, en raison de sa faible mémoire et de son affichage à basse résolution, il servit à des fins éducatives et ludiques.
+Il se vendit tout de même à un million d'exemplaires.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

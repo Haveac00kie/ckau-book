@@ -88,6 +88,17 @@ Bit Corp. была упразднена в 92 году, но United Microelectro
 			<text lang="it">Il Gamate, noto come 超級小子 (pinyin: chāojí xiǎozi, letteralmente "Super Boy") a Taiwan e 超级神童 (pinyin: chāojí shéntóng, letteralmente "Super Child Prodigy") in Cina, è una console portatile per videogiochi prodotta da Bit Corporation all'inizio degli anni '90 e distribuita in Australia, in alcune parti d'Europa, in Asia (Taiwan e Cina), in Argentina e negli Stati Uniti.
 
 L'unico emulatore che la supporta è MESS. Sono noti oltre 70 giochi, non tutti scaricati, prodotti per il sistema.</text>
+			<text lang="fr">Type : console portable
+Génération : quatrième
+Média : cartouche
+Contrôleur(s) : touches directionnelles & 2 boutons
+
+Le phénoménal succès de la Game Boy a ouvert un nouveau marché et la Gamate semble être la première des nombreuses consoles portables à vouloir lui emboiter le pas.
+Elle est conçue par la société de jeux taïwanaise Bit Corporation et mise sur le marché mondial en collaboration avec des distributeurs locaux.
+
+La Gamate se compose d'un processeur 8-bits, de 16 Ko de mémoire vive, d'un écran LCD à 4 niveaux de gris affichant 160 x 152 pixels et d'un processeur sonore à 3 voies et 1 canal de bruit relié à un haut-parleur monophonique. Un câble link est disponible en option.
+
+Malgré une ludothèque raisonnable d'environ 70 titres développés quasiment entièrement par son constructeur, le succès de la Gamate est compromis par une maniabilité des jeux assez médiocre combinée à la mauvaise qualité de l'écran.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -128,6 +128,13 @@ Istnieją różne wersje sprzętowe. W jednym pamięć główna jest zewnętrzna
 L'hardware della console è basato sul Nintendo GameCube con diverse differenze, come la possibilità di installare componenti aggiuntivi come il sistema GD-ROM di Sega e moduli RAM aggiornabili.
 
 Sebbene la piattaforma fosse condivisa tra le tre aziende, Nintendo non era all'epoca attiva nella produzione di giochi arcade, quindi concesse in licenza le sue proprietà a Sega e Namco. Sega fu la prima a lanciare un gioco per la console con Virtua Striker 2002 nell'autunno del 2002, che venne distribuito sul formato GD-ROM proprietario di Sega (e le versioni successive fecero lo stesso). Namco non pubblicherà un gioco per il sistema fino al 2005 e spedirà il suo software su cartucce ROM personalizzate.</text>
+			<text lang="fr">Type : borne d'arcade
+Génération : sixième
+Média : cartes PCB
+Contrôleur(s) : stick arcade et autres
+
+Le nom Triforce fait référence à la série The Legend of Zelda de Nintendo et symbolise l'alliance de Namco, Nintendo et Sega impliquées dans le projet.
+Basé sur l'architecture de la Nintendo Gamecube, le système présente néanmoins quelques différences. Il est composé de plusieurs cartes PCB dont le nombre diffère suivant la révision. Sega a fait en sorte que le lecteur de GD-ROM, développé initialement pour la Dreamcast puis pour la Naomi, soit compatible.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

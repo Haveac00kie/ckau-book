@@ -97,9 +97,6 @@ Dane techniczne:
 - Pamięć ekranu jest zorganizowana w postaci wymieszanych planów.
 - Długość linii ekranu wynosi odpowiednio 160 bajtów (ST-LOW i ST-MED) lub 80 bajtów (ST-HIGH). W STE można ustawić praktycznie dowolną „wirtualną” długość linii ekranu i przesuwać widoczne okno z dokładnością do 1 piksela, dzięki czemu uzyskuje się szybki i płynny przesuw całego ekranu.
 - ST jest wyposażone w programowalny generator Yamaha YM2149. Ma on trzy kanały i możliwość sterowania obwiednią niezależnie dla każdego kanału, a także generowania szumów (sampli).</text>
-			<text lang="fr">Les Atari ST forment une famille d'ordinateurs personnels conçus par la firme américaine Atari dont le succès commercial a marqué la deuxième moitié des années 1980 et le début des années 1990. Le succès fut autant grand public (jeux vidéo) que professionnel (traitement de texte, PAO et surtout MAO).
-
-Le micro-ordinateur Atari ST marque plus particulièrement l’histoire informatique comme la machine ayant permis l'essor de la musique assistée par ordinateur et la démocratisation de la norme MIDI. En 2010, le magazine spécialisé Sound on Sound le classe dans les 25 produits marquants et responsables des changements de l'enregistrement musical. Cette machine est considérée encore aujourd'hui comme une référence dans le domaine en raison de sa robustesse et de son extrême précision pour le séquençage MIDI.</text>
 			<text lang="ru">Семейство домашних персональных компьютеров фирмы Atari, выпускались с 1985 года и в течение 1990-х. ST в названии семейства — это сокращение «Sixteen/Thirty-two» — «16/32», то есть 16-разрядный компьютер с 32-разрядной внутренней шиной процессора Motorola 68000.
 
 Atari ST была заметной машиной, на основе процессора Motorola 68000, с ОЗУ от 512 КБ и 3,5-дюймовым дисководом в качестве устройства хранения данных. Этот компьютер был похож на другие машины того времени на основе Motorola 68000 — Apple Macintosh и Commodore Amiga. Хотя Макинтош и стал первым доступным компьютером с графическим интерфейсом пользователя, но он был ограничен встроенным чёрно-белым монитором низкого разрешения. Ранние модели Atari также имели чёрно-белый монитор с высоким разрешением 640х400 точек (high resolution), а также поддерживали цветной графический режим 320х200 точек (16 цветов, low resolution) и 640x200 (4 цвета, medium resolution). Таким образом, экран в памяти всегда занимал 32000 байт.</text>
@@ -108,6 +105,16 @@ Atari ST была заметной машиной, на основе проце�
 L'Atari ST fa parte di una generazione di home computer della metà degli anni '80 con processori a 16 o 32 bit, 256 KB o più di RAM e interfacce grafiche controllate dal mouse. Questa generazione comprende il Macintosh, l'Amiga, l'Apple IIGS e, in alcuni mercati, l'Acorn Archimedes. "ST" è ufficialmente l'acronimo di "Sixteen/Thirty-two", che si riferisce al bus esterno a 16 bit e agli interni a 32 bit del Motorola 68000.
 
 L'ST veniva venduto con il monitor a colori di Atari o con il meno costoso monitor monocromatico. Le modalità grafiche a colori del sistema erano disponibili solo sul primo, mentre la modalità a più alta risoluzione richiedevano il monitor monocromatico.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : disquette
+Contrôleur(s) : manette 1 bouton, clavier, souris
+
+La gamme Atari ST marque la deuxième moitié des années 80 et le début des années 1990. Le succès est autant grand public (jeux vidéo) que professionnel (PAO et surtout MAO grâce à son interface MIDI), proposant une alternative plus économique au couteux Macintosh à l'image de son slogan "Power without the price". Cependant, la presse l'oppose directement à l'Amiga, sorti au même moment, créant ainsi une bataille de clans sans merci.
+
+"ST" fait référence à son architecture mixte 16/32 bits (Sixteen/Thirty-two) et non aux initiales de Sam Tramiel, fils du fondateur d'Atari, comme le voudrait la légende. Bientôt, une série STe (enhanced) vient compléter le catalogue, suivie par une série plus professionnelle, les MegaST.
+
+Aujourd'hui encore, le ST est considéré comme un jalon dans l'histoire de l'informatique musicale par la démocratisation de la norme MIDI et son séquenceur historique, Cubase.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

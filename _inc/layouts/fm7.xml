@@ -112,6 +112,15 @@ Sebbene sia stato progettato per essere una versione ridotta dell'FM-8, in parti
 All'inizio degli anni '80, l'FM-7 era in concorrenza con i computer della serie PC-8801 di NEC e X1 di Sharp. Nel 1984 fu sostituito dalla serie di computer FM-77, che presentava la compatibilità con l'FM-7. La serie FM-77 fu poi sostituita dalla serie FM Towns a 32 bit nel 1989.
 
 L'FM-7 è basato sul chip 6809, utilizzato anche in home computer come il TRS-80 Color Computer e il Dragon 32/64, oltre che in diversi giochi arcade.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : disquette 5 1/4, cassette
+Contrôleur(s) : manette, clavier
+
+Le FM-7 est un ordinateur 8 bits sorti au Japon en 1982. Il est le premier d'une longue série grand public qui comprend, entre autres, le FM-NEW7, le FM-77 ou encore le FM-77AV.
+Il embarque deux processeurs Motorola 68B09 cadencés à 2 MHz, un principal et un pour les graphismes. Il dispose de 64 Ko de mémoire vive, d'une sortie son sur 3 canaux et affiche 640 x 200 pixels en 8 couleurs.
+
+Le dernier modèle sera le FM77AV40SX sorti en 1988 contenant 448 Ko de RAM et un affichage en 320 x 200 avec 26214 couleurs.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

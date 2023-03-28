@@ -133,6 +133,13 @@ Podobnie jak NAOMI, NAOMI 2 był również dostępny w wersjach z GD-ROM-em i te
 Il NAOMI 2 è molto più potente del NAOMI, con una configurazione a doppia CPU, una nuova GPU TL, una GPU a doppio rasterizzatore, una memoria maggiore e una larghezza di banda più veloce. Questo porta a giochi con un numero di poligoni molto maggiore rispetto a un gioco NAOMI, renderizzati a velocità molto più elevate, mentre la nuova GPU TL aggiunge effetti avanzati di illuminazione e particellari. Il NAOMI 2 era anche più conveniente del costoso (e difficile da programmare) sistema arcade Sega Hikaru che lo aveva preceduto. Il NAOMI 2 era comunque più potente dei sistemi domestici dell'epoca.
 
 Come il NAOMI, anche il NAOMI 2 era disponibile nelle varianti GD-ROM e Satellite Terminal. È stata l'ultima scheda di sistema arcade proprietaria di Sega; le schede arcade successive di Sega sono state basate su hardware di console e PC.</text>
+			<text lang="fr">Type : borne d'arcade
+Génération : sixième
+Média : cartouche, Rom, GD-Rom
+Contrôleur(s) : arcade stick, pistolet, volant
+
+Le NAOMI 2 succède au NAOMI en 2000 suite au faible accueil de la Dreamcast. L'architecture est semblable à celle de son ainé et les jeux sont donc compatibles. En outre, il bénéficie de l'augmentation de la capacité graphique avec, dorénavant, 2 puces PowerVR CLX2, une mémoire doublée qui passe à 32 Mo (4 fois plus que la Dreamcast) permettant l'affichage de plus de détails graphiques.
+Son processeur principal, un Hitachi SH-4, est cadencé à 200 mHZ et affiche 10 millions de polygones par seconde.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

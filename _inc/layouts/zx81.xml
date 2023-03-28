@@ -106,6 +106,18 @@ The ZX81 could be bought by mail order preassembled or, for a lower price, in ki
 Lo ZX81 fu progettato per essere piccolo, semplice e soprattutto economico, con il minor numero possibile di componenti. L'uscita video è destinata a un televisore piuttosto che a un monitor dedicato. I programmi e i dati vengono caricati e salvati su cassette audio compatte. Utilizza solo quattro chip di silicio e una memoria di appena 1 KB. Non ci sono interruttori di accensione né parti mobili, ad eccezione di un selettore di canali televisivi VHF presente in alcuni modelli. Ha una tastiera a membrana sensibile alla pressione. Le limitazioni dello ZX81 hanno stimolato un mercato di periferiche di terze parti per migliorarne le capacità. Il suo caratteristico case e la sua tastiera sono valsi al progettista Rick Dickinson un premio del Design Council.
 
 Lo ZX81 poteva essere acquistato per corrispondenza già assemblato o, a un prezzo inferiore, in kit. Fu il primo home computer economico di massa a essere venduto nei negozi di strada, guidati da W. H. Smith e presto da molti altri rivenditori. Lo ZX81 segnò il momento in cui l'informatica in Gran Bretagna divenne un'attività per il grande pubblico, anziché essere appannaggio di uomini d'affari e hobbisti dell'elettronica. Si creò un'enorme comunità di appassionati, alcuni dei quali fondarono le proprie aziende producendo software e hardware per lo ZX81. Molti di loro hanno poi ricoperto ruoli importanti nell'industria informatica britannica. Il successo commerciale dello ZX81 rese Sinclair Research uno dei principali produttori di computer della Gran Bretagna e fece guadagnare una fortuna e un cavalierato al fondatore dell'azienda, Sir Clive Sinclair.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette
+Contrôleur(s) : clavier
+
+Le ZX81 est un ordinateur 8 bits conçu par l'entreprise britannique Sinclair Research et fabriqué par Timex Corp avec l'objectif d'être petit, simple et surtout très abordable.
+Il succède au ZX80, premier succès de la firme sorti l'année précédente.
+
+Il se distingue aussi par sa simplicité d'utilisation, pourvu d'un clavier à membrane intégré, se branchant sur un simple téléviseur, utilisable dès la mise sous tension et accompagné par un manuel très pédagogique.
+Plusieurs options, assez onéreuses, viennent compléter le catalogue : un magnétophone à cassette, une extension mémoire de 16 Ko, une imprimante thermique, un module couleur, le BASIC étendu et un clavier mécanique venant se superposer au clavier d'origine.
+
+Environ 1.5 million d'exemplaires sont vendus entre 1981 et 1984, année de fin de production.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

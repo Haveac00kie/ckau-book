@@ -68,6 +68,16 @@
 			<text lang="pl">EasyRPG jest projektem społecznościowym mającym na celu stworzenie darmowego, otwartego narzędzia do tworzenia gier fabularnych, kompatybilnego z grami RPG Maker 2000/2003.</text>
 			<text lang="ru">EasyRPG позволяет играть в игры, созданные в RPG Maker 2000 и RPG Maker 2003 (более новые RPG-движки, такие как XP, VX, VX Ace, MV, Wolf RPG Editor или какие либо другие не поддерживаются).</text>
 			<text lang="it">EasyRPG è un progetto di community per creare uno strumento gratuito e open source per la creazione di giochi di ruolo, compatibile con i giochi RPG Maker 2000/2003.</text>
+			<text lang="fr">Type : moteur de jeu 2D
+Génération : 0.6.2.3+
+Média : fichiers .easyrpg
+Contrôleur(s) : manette, clavier, souris
+
+EasyRPG est un projet communautaire pour développer un outil de création de jeux de rôle, gratuit et compatible avec les jeux "RPG Maker 2000/2003"
+La plupart se rapproche du style des grands classiques de la fin des années 80 avec de magnifiques graphiqmes 16 bits en 2D.
+
+Le système d'évènements est très complet et permet une totale liberté scénaristique et le système de combat peut tout aussi bien ressembler à un "Final Fantasy" ou à un "Zelda".
+Côté son, le moteur propose tout un choix de formats allant du MIDI aux formats de qualité CD.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

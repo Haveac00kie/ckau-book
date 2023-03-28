@@ -109,6 +109,15 @@ BBC Micro вышел в двух версиях: Model A и Model B; снача�
 Il primo tipo Model A BBC Micro aveva un processore MOS6502 con clock a 2 MHz e 16 KB di RAM. Poteva operare in otto modalità grafiche: da 640×256 (dal Modello B) a due colori, a 40×25 a otto colori.
 
 Sebbene siano stati prodotti 12 modelli di microcomputer, il termine BBC Micro viene solitamente utilizzato per i primi 4 modelli: Modello A, B, B+64 e B+128.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette, disquette, disque dur
+Contrôleur(s) : joystick, crayon optique, clavier
+
+Suite à la diffusion du documentaire "The Mighty Micro" où le Dr Christopher Evans prédit une révolution informatique et son impact sur l'économie, l'industrie et la vie quotidienne du Royaume-Uni, la BBC décide de lancer son programme "d'alphabétisation informatique".
+Répondant au cahier des charges, la société Acorn sera sélectionnée avec son modèle Proton, renommé pour l'occasion BBC Micro, et équipera l'ensemble des écoles du pays faisant ainsi la fortune de son constructeur.
+
+Il est équipé d'un MOS 6502 à 2 MHz, de 16 à 128 Ko de mémoire, joue du son en mono sur 4 canaux et de la synthèse vocale, et affiche 640 x 256 pixels en 16 couleurs.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

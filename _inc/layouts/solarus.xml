@@ -94,6 +94,14 @@ Il motore esegue tutti i calcoli pesanti (ad esempio, i controlli di collisione)
 Come creatore di missioni, non siete molto interessati a implementare questi algoritmi. Al contrario, volete definire la logica di gioco. I vostri script Lua descrivono il comportamento dei nemici, cosa succede quando si preme un interruttore su una mappa specifica. Implementeranno anche elementi come la schermata del titolo e l'head-up display.
 
 Entrambe le parti (il motore C++ e gli script Lua della missione) comunicano attraverso l'API Solarus Lua. La comunicazione funziona in entrambi i modi: si possono chiamare funzioni del motore (ad esempio, si vuole muovere un personaggio non giocante) e il motore chiama le proprie funzioni (ad esempio, viene informato che un nemico è stato appena ucciso). Ma prima di utilizzare questa API di Solarus, è necessario imparare le basi di Lua (linguaggio semplice e minimale, ma potente).</text>
+			<text lang="fr">Type : moteur de jeu
+Génération : 1.6.4+
+Média : fichiers .solarus
+Contrôleur(s) : manette, clavier
+
+Ce moteur 2D développé par Solarus Team est spécifiquement conçu pour créer des jeux de type Action RPG semblables aux jeux cultes de l'ère 2D tels que "Zelda: A Link to the Pasté sur SNES ou "Soleil" sur MegaDrive.
+Mais grâce à l'OpenGL, il peut aussi afficher des effets graphiques modernes.
+Pour concevoir une quête, il suffit de la scripter en LUA et définir la logique de jeu. Les scripts LUA définissent les comportements des ennemis ou ce qui se passe lorsqu'un interrupeteur est appuyé. Ils servent aussi à implémenter l'écran-titre er le HUD.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -97,12 +97,6 @@ Dane techniczne:
 - PICA200 firmy Digital Media Professionals, 10 MB VRAM
 - Wi-Fi 802.11b/g, 3-osiowy akcelerometr, 3-osiowy żyroskop, mikrofon, port podczerwieni, C-stick, czytnik NFC
 </text>
-			<text lang="fr">La Nintendo 3DS (ニンテンドー3DS, Nintendō 3DS) est une console portable de huitième génération développée par Nintendo, ayant pour particularité l'affichage en 3D autostéréoscopique (sans lunettes). La Nintendo 3DS succède à la Nintendo DS, et est rétrocompatible avec les logiciels de cette dernière. Elle est disponible au lancement sous deux coloris : Bleu Lagon et Noir Cosmos. Sa concurrente principale est la PlayStation Vita de Sony.
-
-Annonçant la console le 23 mars 2010, Nintendo l'a officiellement dévoilée à l'Electronic Entertainment Expo 2010 le 15 juin, invitant les participants à la tester. Selon certains analystes, le calendrier de Nintendo, qui avait détourné l'attention avec le lancement de la toute nouvelle Nintendo DSi XL, était probablement destiné à éviter des fuites de la presse japonaise. La console sort le 26 février 2011 au Japon et en mars sur les principaux marchés (États-Unis, Europe).
-
-Les premiers tests de la console sont très enthousiastes, notamment concernant la technologie 3D autostéréoscopique. Les ventes de la console confirment cette bonne impression. La Nintendo 3DS détient ainsi le record de vente le plus rapide au Japon pour une console, ayant dépassé le record établi par la Game Boy Advance, avec plus de 4,7 millions d'unités vendues en 11 mois. En mars 2020, la console s'est écoulée à 75,77 millions d'exemplaires dans le monde.
-</text>
 			<text lang="ru">Портативная игровая система производства Nintendo, способная создавать трёхмерный эффект изображения за счёт автостереоскопии, то есть без использования специальных очков. Консоль поступила в продажу во всех регионах до конца финансового года Nintendo, завершившегося в конце марта 2011 г. Игровая система присутствует на рынке одновременно с линейкой игровых систем Nintendo DS.
 21 июня 2012 года Nintendo объявила о выходе обновлённой версии Nintendo 3DS XL (в Японии Nintendo 3DS LL).
 
@@ -114,6 +108,16 @@ Les premiers tests de la console sont très enthousiastes, notamment concernant 
 			<text lang="it">Il Nintendo 3DS è una console portatile prodotta da Nintendo. La console è stata annunciata nel marzo 2010 e presentata ufficialmente all'E3 2010 come successore del Nintendo DS. La console è dotata di retrocompatibilità con i vecchi videogiochi per Nintendo DS. Essendo una console di ottava generazione, il suo principale concorrente era la PlayStation Vita di Sony.
 
 La caratteristica principale della console portatile è la capacità di visualizzare effetti 3D stereoscopici senza l'uso di occhiali 3D o di accessori aggiuntivi, e nuove funzionalità come le modalità di tag StreetPass e SpotPass, alimentate da Nintendo Network; la realtà aumentata utilizzando le sue fotocamere 3D; e la Virtual Console, che consente ai possessori di scaricare e giocare a giochi originariamente rilasciati su vecchie console di videogiochi. Era inoltre precaricata con varie applicazioni, tra cui un negozio di distribuzione online chiamato Nintendo eShop, un servizio di social networking chiamato Miiverse (chiuso nel 2017), un browser Internet, i servizi di streaming video Netflix, Hulu Plus e YouTube, Nintendo Video, un'applicazione di messaggistica chiamata Swapnote (nota come Nintendo Letter Box in Europa e Australia) e Mii Maker.</text>
+			<text lang="fr">Type : console portable
+Génération : huitième
+Média : cartouche
+Contrôleur(s) : touches directionnelles + 6 boutons + stick
+
+La Nintendo 3DS (ニンテンドー3DS, Nintendō 3DS) succède à la Nintendo DS, et est rétrocompatible avec les logiciels de cette dernière. Elle est disponible au lancement sous deux coloris : Bleu Lagon et Noir Cosmos. Sa concurrente principale est la PS Vita de Sony.
+
+Annoncée le 23 mars 2010, Nintendo l'a officiellement dévoilée le 15 juin de la même année lors de l'E3. La console sort le 26 février 2011 au Japon et en mars sur les principaux marchés (États-Unis, Europe).
+
+Les premiers tests de la console sont très enthousiastes, notamment concernant son atout commercial majeur, la technologie 3D autostéréoscopique (sans lunettes). Les ventes de la console confirment cette bonne impression. La Nintendo 3DS détient ainsi le record de vente le plus rapide au Japon pour une console, ayant dépassé le record établi par la Game Boy Advance, avec plus de 4,7 millions d'unités vendues en 11 mois. En mars 2020, la console s'est écoulée à 75,77 millions d'exemplaires dans le monde.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

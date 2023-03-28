@@ -110,6 +110,15 @@ A3000 использовала процессор ARM2 с тактовой ча�
 Il progetto RISC di ARM, una CPU a 32 bit (che utilizza un indirizzamento a 26 bit), funzionante a 8 MHz, era dichiarato come in grado di raggiungere oltre 4,5 MIPS, il che rappresentava un significativo upgrade rispetto agli home computer a 8 bit, come le precedenti macchine di Acorn. Durante i test è stato anche dichiarato che si trattava del micro più veloce al mondo e che funzionava a 18 MIPS.
 
 Il nome "Acorn Archimedes" è comunemente usato per descrivere qualsiasi progetto contemporaneo di Acorn basato sulla stessa architettura. Questa architettura può essere caratterizzata da una CPU ARM e da un chipset di prima generazione composto da MEMC (MEMory Controller), VIDC (VIDeo and sound Controller) e IOC (Input Output Controller).</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : disquette 3,5 pouces, CD-Rom
+Contrôleur(s) : joystick, clavier
+
+Archimedes est une gamme d'ordinateurs 32 bits fabriqués par Acorn. C'est le premier ordinateur ARM grand public, ARM signifiant "Acorn Risc Machine" avant de devenir "Advanced Risc Machine".
+
+Face à ses rivaux tels que l'Atari ST, l'Amiga 500, le PC et l'Apple de l'époque, il est techniquement supérieur en terme de puissance.
+Le premier modèle est équipé d'un processeur 8MHz et 512 Ko de RAM. Le dernier, en 1992, propose un 40 MHz, 4 Mo de RAM et 80 Mo de disque dur avec un affichage allant de 640 x 512 en 256 couleurs à 1600 x 600 en 16 couleurs et un son stéréo sur 8 canaux.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

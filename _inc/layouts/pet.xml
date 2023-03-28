@@ -97,6 +97,14 @@ Lo sviluppo del sistema iniziò nel 1976 e un prototipo fu presentato al Consume
 Il design del PET subì una serie di aggiornamenti: più memoria, tastiera migliore, schermo più grande e altre modifiche. I sistemi furono molto venduti nei mercati dell'istruzione canadese e statunitense, oltre che in Europa per uso aziendale.
 
 Il nome fu suggerito da Andre Souson dopo aver visto il Pet Rock a Los Gatos, e dichiarò che avrebbero realizzato il "computer da compagnia". Il nome è stato poi cambiato in Personal Electronic Transactor.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette, disquette
+Contrôleur(s) : clavier
+
+En 1977, Commodore lance une machine intégrée à usage personnel sous le nom de Commodore PET 2001 (Personal Electronic Transactor).
+Cet ordinateur précurseur fait partie de la célèbre "Trinité de 1977" avec l'Apple ][ et le Tandy TRS-80.
+Chuck Peddle le concoit comme un boitier monobloc, incorporant clavier, écran et lecteur de cassette; il se distingue de la Trinité comme premier micro-ordinateur prêt à fonctionner dès sa mise sous tension.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

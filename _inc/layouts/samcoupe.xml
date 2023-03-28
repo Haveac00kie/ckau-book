@@ -104,6 +104,17 @@ Jego wydanie w czasie, gdy 16-bitowe komputery domowe były bardziej powszechne,
 Dispone di una modalità di schermo compatibile e di compatibilità emulativa ed è stato commercializzato come un logico aggiornamento dello Spectrum. Fu originariamente prodotto da Miles Gordon Technology (MGT), con sede a Swansea, nel Regno Unito.
 
 Il suo rilascio, in un periodo in cui i computer domestici a 16 bit erano più diffusi, e la mancanza di titoli software commerciali, lo portarono a essere un fallimento commerciale.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : disquette 3.5", cassette
+Contrôleur(s) : clavier
+
+Cet ordinateur 8 bits britannique est fabriqué par Miles Gordon Technology.
+Il est équipé d'un processeur Zilog Z80B à 6 MHz, 256 Ko de RAM (extensible à 512 Ko), un son sur 6 canaux. Il propose 4 modes graphiques dont le 256 x 192 en 16 couleurs ou le 512 x 192 en 4 couleurs.
+De base, le média de stockage est un lecteur cassette pouvant être remplacé par un ou deux lecteurs de disquette.
+Partageant un circuit commun avec le ZX Spectrum, il peut utiliser la ludothèque de ce dernier.
+
+Malheureusement, il sort en même temps que les nouveaux ordinateurs 16 bits.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

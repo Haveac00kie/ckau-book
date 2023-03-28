@@ -111,6 +111,15 @@ Pełne wsparcie dźwiękowe / muzyczne jest również zapewnione z wieloma kana�
 I tavoli sono costruiti con componenti standard (plastiche, pioli, paraurti, luci ecc.) che vengono posizionati sul campo di gioco tramite l'editor. Oggetti come superfici, luci e gomme sono modellabili all'interno dell'editor e generati in tempo reale quando il tavolo viene giocato. Gli altri oggetti (Bumpers, Flippers, Gates, Triggers, Targets ecc.) utilizzano modelli 3D preconfezionati, di cui esiste una bella selezione per ogni tipo.
 
 È previsto anche il supporto completo per suoni e musica, con canali musicali multipli per consentire la dissolvenza incrociata.</text>
+			<text lang="fr">Type : simulateur de billard électrique
+Génération : première
+Média : fichiers .FPT
+Contrôleur(s) : manette, clavier
+
+Système de développement de flipper, Future Pinball permet de concevoir et jouer au flipper en 3D temps réel.
+Il utilise une physique avancée pour fournir l'expérience de jeu la plus réaliste possible. Le fonctionnement d'une table est scripté dans le "Visual Basic Scripting", un système conçu pour être simple mais assez flexible pour permettre la création d'une grande variété de jeux.
+Le moteur prend aussi en charge les bruitages, la musique sur plusieurs canaux et l'affichage des frontons.
+Parmi les nombreuses tables de jeu développées par des passionnés de la bille d'acier, vous trouverez aussi bien des créations originales que des reproductions fidèles des grands classiques fabriqués chez Williams, Bally et autres Gottlieb.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

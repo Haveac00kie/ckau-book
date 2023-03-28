@@ -68,6 +68,16 @@
 			<text lang="pl">PICO-8 jest fantazyjną konsolą do tworzenia, dzielenia się i grania w małe gry i inne programy komputerowe. Wygląda jak zwykła konsola, ale działa na Windowsie / Macu / Linuksie. Kiedy ją włączasz, wita cię wierszem poleceń, zestawem narzędzi do tworzenia kartridży oraz przeglądarką kartridży online o nazwie SPLORE.</text>
 			<text lang="ru">PICO-8 является вымышленной консолью для создания, обмена и воспроизведения крошечных игр и других компьютерных программ. Когда вы включите её, машина встречает вас строкой для ввода Lua-команд и предоставляет простые встроенные инструменты для создания собственных картриджей.</text>
 			<text lang="it">PICO-8 è una console di fantasia per creare, condividere e giocare con piccoli giochi e altri programmi per computer. Sembra una normale console, ma funziona su Windows / Mac / Linux. Quando la si accende, la macchina ci accoglie con una linea di comando, una suite di strumenti per la creazione di cartucce e un browser online per le cartucce chiamato SPLORE.</text>
+			<text lang="fr">Type : moteur de jeu
+Génération : v0.2.1b+
+Média : fichiers image.P8
+Contrôleur(s) : manette, clavier, souris
+
+Pico-8 est une machine virtuelle qui donne vie à une "fantasy console" qui n'a jamais existé physiquement, mais qui possède pourtant ses limitations techniques propres.
+L'affichage graphique est limité à 16 couleurs en 128 x 128 pixels et le son est sur 4 canaux. Ce qui donne facilement aux jeux un aspect minimaliste et rétro.
+
+Le but du projet est d'offrir la possibilité de développer facilement en LUA avec un environnement permettant de créer très facilement les différents éléments du jeu comme les sons, les sprites, les cartes, etc.
+Le jeu le plus connu créé sur cette plateforme est "Celeste".</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

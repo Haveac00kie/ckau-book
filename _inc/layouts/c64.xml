@@ -103,11 +103,6 @@ Dane techniczne:
 	USERPORT – port równoległy umożliwiający transmisję szeregową RS-232
 	szyna szeregowa dla drukarki lub stacji dysków
 	zasilanie: 5 V DC i 9 V AC</text>
-			<text lang="fr">Le Commodore 64 est un ordinateur personnel conçu par Commodore Business Machines Inc. en 1982, sous l'égide de Jack Tramiel. Il fut la première machine vendue à plusieurs millions d'exemplaires (de 17 à 25 millions selon les estimations), et il reste le modèle d'ordinateur personnel le plus vendu à ce jour, selon le Livre Guinness des records.
-
-En 2011, une société basée en Floride a mis en vente un « Commodore 64 » reprenant le boîtier d'origine et compatible PC.
-
-En 2017, Retro Games Ltd. annonce une réédition du Commodore 64, « The C64 Mini », une version miniaturisée de l'ordinateur personnel, dont la distribution doit être assurée par Koch Media. Celle-ci est basée sur le processeur Allwinner A20, comporte 256 Mo de RAM, 256 Mo de flash pour le système et, pour la connectique, un port HDMI, ainsi 2 ports USB, le clavier intégré étant ici uniquement représentatif, mais ne fonctionnant pas.</text>
 			<text lang="ru">Домашний компьютер с 64 КБ оперативной памяти. Выпущен на рынок компанией Commodore International в августе 1982 года по цене 595 долларов. За всё время выпуска Commodore 64 (1982—1994) было продано более 15 млн компьютеров. Согласно книге рекордов Гиннесса, Commodore 64 стал лидером продаж среди моделей компьютеров.
 
 C64 можно было подключить непосредственно к телевизору и играть в игры, в той же манере, как это делалось с игровыми приставками, такими как Atari 2600. В отличие от других компьютеров, распространявшихся только через авторизованных дилеров, Commodore также нацеливался на крупные магазины и магазины игрушек. Считается, что ценовая политика Commodore 64 стала одной из основных причин сокращения рынка игровых приставок в 1983 году.
@@ -116,6 +111,16 @@ C64 можно было подключить непосредственно к �
 			<text lang="it">Il Commodore 64, noto anche come C64 o CBM 64, è un home computer a 8 bit introdotto nel gennaio 1982 da Commodore International (presentato per la prima volta al Consumer Electronics Show, a Las Vegas, dal 7 al 10 gennaio 1982). È stato inserito nel Guinness World Records come il modello di computer singolo più venduto di tutti i tempi, con stime indipendenti che collocano il numero di unità vendute tra i 12,5 e i 17 milioni. La produzione in serie è iniziata all'inizio del 1982, con la commercializzazione in agosto al prezzo di 595 dollari (equivalenti a 1.576 dollari nel 2019). Preceduto dal Commodore VIC-20 e dal Commodore PET, il C64 prendeva il nome dai suoi 64 kilobyte (65.536 byte) di RAM. Grazie al supporto per gli sprite multicolore e a un chip personalizzato per la generazione di forme d'onda, il C64 poteva creare immagini e audio di qualità superiore rispetto ai sistemi privi di tale hardware personalizzato.
 
 Il C64 dominò il mercato dei computer di fascia bassa (tranne che nel Regno Unito) per la maggior parte degli anni Ottanta. Per un periodo consistente (1983-1986), il C64 ha avuto una quota tra il 30% e il 40% del mercato statunitense e due milioni di unità vendute all'anno, superando i compatibili IBM PC, i computer Apple e la famiglia di computer Atari a 8 bit. Sam Tramiel, in seguito presidente di Atari e figlio del fondatore di Commodore, ha dichiarato in un'intervista del 1989: "Quando ero in Commodore abbiamo costruito 400.000 C64 al mese per un paio d'anni". Nel mercato britannico, il C64 dovette affrontare la concorrenza del BBC Micro e dello ZX Spectrum, ma il C64 era comunque il secondo computer più popolare nel Regno Unito dopo lo ZX Spectrum.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cartouche, cassette, disquette
+Contrôleur(s) : joystick, clavier, souris
+
+Le Commodore 64 est un ordinateur personnel conçu par Commodore Business Machines Inc. en 1982, sous l'égide de Jack Tramiel. Il reste le modèle le plus vendu de sa décennie avec 13 millions d'exemplaires.
+Il utilise un processeur 8-bits 6510 et 64 Ko de mémoire vive. Sa puce graphique, le VIC-II, fournit 16 couleurs et des fonctions de scrolling et de sprites. 
+Très avancée pour son époque, la puce sonore SID, diffuse sur 3 voies des sons composés à partir de formes d'onde, de modulations et de filtres. Son concepteur, Bob Yannes, deviendra cofondateur de la société de synthétiseur Ensoniq.
+
+Le C64 continue de vivre grâce à un groupe de passionnés qui se réunissent régulièrement autour d'une compétition de programmation.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

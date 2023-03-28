@@ -83,6 +83,18 @@ Game &amp; Watch работали от батареек-«таблеток»; и
 Invece di uno schermo generico composto da una griglia di piccoli pixel, di solito hanno display personalizzati progettati per la riproduzione di un solo gioco. Grazie a questa semplicità, possono essere realizzati con le dimensioni di uno smartwatch, e a volte lo sono. L'output visivo di questi giochi può variare da alcune piccole lampadine o luci LED a schermi alfanumerici simili a quelli di una calcolatrice; in seguito questi schermi sono stati sostituiti da schermi a cristalli liquidi e a fluorescenza sottovuoto con immagini dettagliate e, nel caso dei giochi VFD, a colori.
 
 La popolarità dei giochi portatili ha raggiunto il suo apice tra la fine degli anni '70 e l'inizio degli anni '90, prima di diminuire. Sono i precursori delle console di gioco portatili.</text>
+			<text lang="fr">Type : console portable
+Génération : deuxième
+Média : aucun
+Contrôleur(s) : touches directionnelles, boutons
+
+Communément appelé "jeu électronique", ce petit boitier de poche intègre l'affichage, les haut-parleurs, les contrôleurs et le jeu.
+Au lieu d'un écran polyvalent composé d'une matrice de pixels, le jeu embarque un écran dédié, le plus souvent à affichage à cristaux liquides, avec des graphismes prédéfinis.
+Le jeu se contente de suivre des séquences indiquant à l'écran quelle partie "allumer" ou "éteindre" et de contrôler si le joueur répond à l'action attendue.
+
+Comme les célèbres Game & Watch de Nintendo, il arrive qu'ils soient agrémentés de fonctions annexes comme afficher l'heure ou mémoriser une alarme.
+
+Ils sont les précurseurs des consoles de jeu portables.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

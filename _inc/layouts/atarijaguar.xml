@@ -110,6 +110,16 @@ Dane techniczne:
 Lo sviluppo dell'Atari Jaguar iniziò all'inizio degli anni '90 da parte di Flare Technology, che progettò anche la console Atari Panther cancellata. L'architettura multi-chip, i bug hardware e la mancanza di strumenti di supporto per gli sviluppatori resero difficile lo sviluppo dei giochi. Le vendite deludenti contribuirono ulteriormente alla mancanza di supporto da parte di terzi. La libreria di giochi comprendeva solo 50 titoli su licenza, più altri 13 giochi sul CD Jaguar.
 
 Atari cercò di prolungare la vita del sistema con il CD aggiuntivo Atari Jaguar e commercializzando il Jaguar come console di nuova generazione a basso costo, con un prezzo inferiore di oltre 100 dollari rispetto a tutti i suoi concorrenti. Con l'uscita del Sega Saturn e della Sony PlayStation nel 1995, le vendite del Jaguar continuarono a diminuire. Non vendette più di 250.000 unità prima di essere dismessa nel 1996. Il fallimento commerciale del Jaguar spinse Atari ad abbandonare il mercato delle console.</text>
+			<text lang="fr">Type : console de salon
+Génération : cinquième
+Média : cartouche, CD-Rom
+Contrôleur(s) : manette à touches directionnelles & 15 boutons
+
+Malgré une technologie innovante, la Jaguar n'a pas connu un grand succès. Pourtant, à sa sortie, elle est présentée comme la seule console 64 bits, la Playstation et la Saturn étant des 32 bits.
+Mais une controverse avance que les deux processeurs 64 bits ne sont que des accélérateurs graphiques : son processeur graphique est un 32 bits et son processeur principal est un 16 bits à 13 MHz. Avec ses 2 Mo de RAM, elle affiche 720 x 526 pixels en 16 millions de couleurs.
+
+Malgré une ludothèque limitée, on peut y trouver un titre culte : "Alien vs. Predator".
+La Jaguar est l'avant-dernière console produite par Atari Corporation.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

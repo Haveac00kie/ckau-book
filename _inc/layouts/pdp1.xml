@@ -105,6 +105,16 @@ Il PDP-1 utilizza una dimensione di word di 18 bit e ha 4096 word come memoria p
 È costruito principalmente con i System Building Block della serie DEC 1000, che utilizzano transistor diffusi in micro-lega e micro-lega con una velocità di commutazione nominale di 5 MHz. I blocchi di sistema sono imballati in diversi rack da 19 pollici. I rack sono a loro volta imballati in un unico grande contenitore per mainframe, con un pannello di controllo esagonale contenente interruttori e luci montato all'altezza di un tavolo a un'estremità del mainframe. Sopra il pannello di controllo si trova la soluzione di input/output standard del sistema, un lettore e uno scrittore di nastri perforati.
 
 Il PDP-1 pesava circa 730 kg.</text>
+			<text lang="fr">Type : ordinateur
+Génération : seconde
+Média : cartes perforées
+Contrôleur(s) : clavier, stylo optique
+
+Le PDP-1 (Programmed Data Processor-1) est la premier ordinateur conçu par DEC, une marque dont l'influence sur l'informatique personnelle se mesure encore aujourd'hui (DEC conçut l'Alpha dans les années 90, un CPU innovant dont l'un des architectes, Dirk Meyer, parti chez AMD pour créer l'Athlon 64).
+Similaire au TX-0, il était encore plus compact et possédait un écran CRT circulaire de 23,5 cm de diamètre capable d'afficher 1024 par 1024 points au rythme de 20 000 points par seconde.
+Ces capacités graphiques ont donné l'idée aux chercheurs de créer le tout premier jeu vidéo de l'histoire baptisé Spacewar!
+
+(source : Tom's Hardware)</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -113,6 +113,15 @@ Była ona sprzedawana tylko przez ograniczony czas, zanim firma Bally postanowi�
 Fu annunciata originariamente come "Bally Home Library Computer" nell'ottobre 1977 e resa disponibile per la vendita per corrispondenza nel dicembre 1977. Ma a causa di ritardi nella produzione, le unità furono distribuite per la prima volta nei negozi nell'aprile del 1978 e il marchio fu cambiato in "Bally Professional Arcade".
 
 Fu commercializzato solo per un periodo limitato prima che Bally decidesse di uscire dal mercato. I diritti vennero poi acquisiti da un'azienda terza, che lo ripubblicò e lo vendette fino al 1984 circa. L'Astrocade è particolarmente degno di nota per le sue capacità grafiche molto potenti per l'epoca di uscita e per la difficoltà di accesso a tali capacità.</text>
+			<text lang="fr">Type : console de salon
+Génération : deuxième
+Média : cartouches
+Contrôleur(s) : joystick
+
+Le "Professional Arcade" est une console de jeux conçue par "Bally Manufacturing", une équipe de Midway, et commercialisée pendant une période limitée avant que Bally ne décide de quitter ce marché.
+
+Avec son processeur Z80 cadencé à 1.789 MHz, elle se démarque par ses capacités graphiques très puissantes, mais aussi pour la difficulté d'accès à ces mêmes capacités. Son principal défaut étant une commercialisation uniquement par correspondance et un long délai de fabrication.
+Astrovision la renomme "Astrocade" en 1982.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -77,6 +77,17 @@ Możesz przesyłać swoją kolekcję gier PC ze swojego komputera kompatybilnego
 Moonlight (ex Limelight) è un'implementazione open source del protocollo GameStream di NVIDIA. Abbiamo implementato il protocollo utilizzato da NVIDIA Shield e scritto una serie di client di terze parti.
 
 È possibile eseguire lo streaming della propria collezione di giochi per PC dal proprio PC compatibile con GameStream a qualsiasi dispositivo supportato e giocarci in remoto. Moonlight è perfetto per giocare in movimento senza sacrificare la grafica e la selezione di giochi disponibili su PC.</text>
+			<text lang="fr">Type : streaming
+Génération : 2.5.0+
+Media : compte Steam
+Contrôleur(s) : manette, souris, clavier
+
+Moonlight est une version open-source du protocole NVIDIA GameStream qui vous permet de diffuser des jeux depuis un PC équipé d'une carte graphique NVIDIA vers un boitier distant.
+Il s'agit d'un logiciel de streaming de jeux similaire à "Steam Link".
+
+Le projet a vu le jour en 2013 et Batocera utilise "Moonlight Embedded" qui fonctionne également sur les appareils ARM comme un Rapsberry Pi.
+Ainsi vous pouvez streamer vos derniers jeux 3D sur votre TV, même avec un boitier très peu puissant.
+Le protocole supporte jusqu'à 4 joueurs et le 1080p 60fps.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

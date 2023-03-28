@@ -97,6 +97,12 @@ Sega выпустила множество моделей Dreamcast, больш�
 			<text lang="it">Il Dreamcast è una console per videogiochi domestica rilasciata da Sega il 27 novembre 1998 in Giappone, il 9 settembre 1999 in Nord America e il 14 ottobre 1999 in Europa. È stata la prima della sesta generazione di console per videogiochi, preceduta dalla PlayStation 2 di Sony, dal GameCube di Nintendo e dalla Xbox di Microsoft. Il Dreamcast è stata l'ultima console domestica di Sega, segnando la fine dei diciotto anni di presenza dell'azienda nel mercato delle console.
 
 In contrasto con il costoso hardware del fallimentare Sega Saturn, il Dreamcast fu progettato per ridurre i costi con componenti "off-the-shelf", tra cui una CPU Hitachi SH-4 e una GPU NEC PowerVR2. Uscito in Giappone con un'accoglienza modesta, il Dreamcast ebbe un lancio di successo negli Stati Uniti, sostenuto da un'ampia campagna di marketing, ma l'interesse per il sistema diminuì costantemente mentre Sony creava un'atmosfera di entusiasmo per l'imminente PlayStation 2. Le vendite non raggiunsero i livelli di Sega Saturn. Le vendite non soddisfavano le aspettative di Sega, nonostante i numerosi tagli di prezzo, e l'azienda continuava a subire notevoli perdite finanziarie. Dopo un cambio di leadership, il 31 marzo 2001 Sega ha dismesso il Dreamcast, ritirandosi dal settore delle console e ristrutturandosi come editore di terze parti. In totale sono state vendute 9,13 milioni di unità Dreamcast in tutto il mondo.</text>
+			<text lang="fr">Type : console de salon
+Génération : sixième
+Média : GD-Rom (1.2 Go)
+Contrôleur(s) : stick analogique, pad, 7 boutons
+
+La Dreamcast (ドリームキャスト, Dorīmukyasuto) est une console de jeux vidéo développée par Sega, et le successeur de la Saturn. Commercialisée dès novembre 1998 au Japon, elle est la première console de sixième génération présente sur le marché, avant ses concurrentes — la PlayStation 2 de Sony, la Xbox de Microsoft et la GameCube de Nintendo. Son nom est composé des mots dream (rêve) et cast (de broadcast : diffuser). Elle a été connue pendant son développement sous les noms Blackbelt, Dural et Katana.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

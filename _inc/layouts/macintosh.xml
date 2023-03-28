@@ -90,6 +90,18 @@ Apple chciało stworzyć łatwy w obsłudze komputer, który będzie w stanie ob
 			<text lang="it">Il Macintosh (principalmente Mac dal 1998) è una famiglia di personal computer progettati, prodotti e venduti da Apple Inc. (originariamente come Apple Computer, Inc.) dal gennaio 1984.
 
 Il Macintosh originale è il primo personal computer desktop all-in-one di successo per il mercato di massa ad avere un'interfaccia utente grafica, uno schermo integrato e un mouse. Apple ha venduto il Macintosh insieme alle popolari famiglie di computer Apple II, Apple IIGS, Apple III e Apple Lisa, fino a quando gli altri modelli non sono stati dismessi negli anni '90.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : disquette 3.5 pouces
+Contrôleur(s) : clavier, souris
+
+En 1983, l'Apple Lisa, grande soeur du Macintosh, propose la première interface graphique inspirée des travaux de Xerox mais, à 10.000$ l'unité, le projet est un échec.
+1984. Outre le titre du roman d'Orwell dont s'inspire la campagne publicitaire du Macintosh, cette année marque un tournant dans l'histoire de l'informatique et dans celle d'Apple.
+Conçu pour la classe moyenne américaine, "Le Mac" montre la voie de l'informatique moderne au grand public : une interface graphique composée d'un bureau, des menus déroulants, d'icones et une souris pour naviguer.
+De son côté, Apple inscrit définitivement les mots confort et innovation dans son ADN.
+
+Le boitier tout-en-un intègre un chipset x68000 à 8 MHz, 128 Ko de RAM, une sortie son 8 bit mono, un lecteur de disquette et un écran monochrome 9" affichant 512 x 342 pixels.
+Les modèles suivants passeront à 512 Ko puis 1 Mo de RAM (Mac Plus). Les modèles SE et Classic disposeront d'un disque dur de 40 Mo.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

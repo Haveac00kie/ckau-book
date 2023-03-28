@@ -90,9 +90,6 @@ Pamięć operacyjna: 24 MB RAM
 Procesor graficzny: Flipper 162 MHz
 Karta dźwiękowa: 16-bit DSP, 64 kanały, pamięć audio 16 MB
 Nośnik danych: Nintendo GameCube Disc, pojemność 1,5 GB</text>
-			<text lang="fr">La (ou le) Nintendo GameCube (ニンテンドーゲームキューブ, Nintendō Gēmukyūbu, Nintendo Gamecube) est une console de jeux vidéo de salon du fabricant japonais Nintendo, sortie en 2001 (2002 en Europe), développée en association avec IBM, NEC et ATI. Elle fut en concurrence avec la PlayStation 2 de Sony, la Xbox de Microsoft et la Dreamcast de Sega, qui forment ensemble la sixième génération de consoles de jeux vidéo.
-
-Malgré ses excellents jeux, la GameCube ne rencontre pas le succès de ses devancières, avec 5 ans sur le marché des consoles de jeux, elle ne totalise que le score de 22 millions d'unités écoulées. Il y a en France 150 jeux sortis la première année de commercialisation (du 3 mai 2002 au 2 mai 2003), 111 la deuxième année, 80 la troisième, 63 la quatrième. L'un des derniers jeux majeurs développés pour cette console fut The Legend of Zelda: Twilight Princess, sorti en France le 15 décembre 2006, et disponible également sur le successeur de la GameCube, la Wii.</text>
 			<text lang="ru">Четвёртая домашняя игровая консоль от Nintendo, относится к шестому поколению игровых систем. Предшественник Wii и преемник Nintendo 64.
 
 В отличие от конкурентов того поколения (PlayStation 2 и Xbox) GameCube использует диски на основе mini-DVD вместо полноразмерных DVD. Нет поддержки проигрывания DVD-Video и audio CD, а также возможностей других консолей, использующих полноразмерные оптические диски.
@@ -103,6 +100,14 @@ GameCube впервые упоминалась в выпуске № 145 жур�
 			<text lang="it">Il Nintendo GameCube è una console per videogiochi domestica pubblicata da Nintendo in Giappone e Nord America nel 2001 e nei territori PAL nel 2002. Il GameCube rappresenta l'ingresso di Nintendo nella sesta generazione di console per videogiochi ed è il successore della precedente console, il Nintendo 64. Il GameCube ha fatto concorrenza alla PlayStation 2 di Sony e alla Xbox di Microsoft.
 
 Il GameCube fu la prima console Nintendo a utilizzare dischi ottici come supporto di memorizzazione principale. I dischi erano in formato miniDVD, ma la console non era stata progettata per riprodurre DVD o CD audio a grandezza naturale, a differenza dei suoi concorrenti, e si è concentrata principalmente sul gioco. La console supporta un numero limitato di giochi online tramite un adattatore GameCube a banda larga o modem e può essere collegata a un Game Boy Advance con un cavo di collegamento, che consente ai giocatori di accedere a funzioni esclusive del gioco utilizzando il palmare come secondo schermo e controller, come una Wii U.</text>
+			<text lang="fr">Type : console de salon
+Génération : sixième
+Média : Mini Disc (1.5 Go)
+Contrôleur(s) : manette, Wavebird
+
+La (ou le) Nintendo GameCube (ニンテンドーゲームキューブ, Nintendō Gēmukyūbu, Nintendo Gamecube) est une console de jeux vidéo de salon du fabricant japonais Nintendo, sortie en 2001 (2002 en Europe), développée en association avec IBM, NEC et ATI. Elle fut en concurrence avec la PlayStation 2 de Sony, la Xbox de Microsoft et la Dreamcast de Sega, qui forment ensemble la sixième génération de consoles de jeux vidéo.
+
+Malgré ses excellents jeux, la GameCube ne rencontre pas le succès de ses devancières, avec 5 ans sur le marché des consoles de jeux, elle ne totalise que le score de 22 millions d'unités écoulées. Il y a en France 150 jeux sortis la première année de commercialisation (du 3 mai 2002 au 2 mai 2003), 111 la deuxième année, 80 la troisième, 63 la quatrième. L'un des derniers jeux majeurs développés pour cette console fut The Legend of Zelda: Twilight Princess, sorti en France le 15 décembre 2006, et disponible également sur le successeur de la GameCube, la Wii.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

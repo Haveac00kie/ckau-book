@@ -104,6 +104,15 @@ La console non utilizza uno schermo LCD o monitor esterni, bensì LED disposti s
 
 La tecnologia utilizzata nell'Entex Adventure Vision richiedeva una grande quantità di energia, per cui erano necessarie fino a quattro batterie D. Per alimentare la console si poteva usare anche un adattatore A/C.
 Sulla parte superiore della console sono presenti speciali ripiani in cui è possibile riporre le cartucce.</text>
+			<text lang="fr">Type : console de salon
+Génération : seconde
+Média : cartouche
+Contrôleur(s) : joystick 4 axes et 8 boutons
+
+L'Adventure Vision est une console de jeu vidéo à cartouche intégrant un moniteur vidéo. Elle est la seconde console conçue par Entex, succédant à la Select-A-Game, une console portable sortie un an auparavant.
+
+Elle dispose d'un processeur à 733KHz, 1 Ko de RAM, des graphismes de 150 x 40 pixels monochromes et un chipset sonore cadencéà 52.6 KHz.
+Sa ludothèque est très limitée.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

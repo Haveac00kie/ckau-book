@@ -102,9 +102,6 @@ Dane techniczne:
 - 4kB RAM, maksymalnie 48kB
 - rozdzielczość ekranu 280 × 192, Ekran pozwalał wyświetlić 24 wiersze w 40 kolumnach tekstu
 - System operacyjny WOZ Integer BASIC w ROM-ie</text>
-			<text lang="fr">L'Apple II (parfois orthographié Apple ][ ou Apple //) est l'un des premiers ordinateurs personnels au monde fabriqué à grande échelle. Conçu par Steve Wozniak, commercialisé le 10 juin 1977 par Apple, il commence sa carrière auprès des particuliers passionnés, mais la sortie du premier tableur, VisiCalc en 1979 permit son entrée dans le monde professionnel et une augmentation très importante de ses ventes, faisant la richesse subite de la société Apple à cette époque.
-
-Les Apple II ont évolué au cours des années 1980, et ont été vendus jusqu'en 1993. L'Apple II avait une architecture principalement 8 bits, et diffère complètement des Apple Macintosh introduits en 1984 (voir la chronologie informatique pour avoir les dates de sortie des modèles de la famille Apple II - l'Apple II de 1977, le II plus, IIe, IIc et IIGS). La partie du nom en « II » était successivement écrite en utilisant une multitude de moyens graphiques et de symboles de ponctuation. Ainsi le II et le II+ furent généralement écrits « ][ » et « ][+ », le IIe et le IIc s’écrivaient « //e » et « //c », aussi bien sur les manuels que les machines elles-mêmes.</text>
 			<text lang="ru">Первый персональный компьютер, серийно выпускавшийся компанией Apple Computer. Apple II стал прямым наследником любительского компьютера Apple I, никогда не производившегося в больших количествах, но уже содержавшего многие идеи, которые обеспечили успех Apple II.
 
 Компьютер был впервые представлен в 1977 году на выставке West Coast Computer Faire и стал одним из первых и наиболее успешных персональных компьютеров того времени. Производилось несколько моделей Apple II, и наиболее популярная из них, с относительно небольшими изменениями, продавалась до 1990-х годов. Всего было произведено от 5 до 6 миллионов экземпляров Apple II.
@@ -116,6 +113,16 @@ I tre computer che Byte Magazine ha definito la "Trinità del 1977" dell'home co
 La rivista Byte si riferiva all'Apple II, al Commodore PET 2001 e al TRS-80 come alla "Trinità del 1977". L'Apple II aveva la caratteristica principale di poter visualizzare grafica a colori, e per questo motivo il logo Apple fu ridisegnato in modo da avere uno spettro di colori.
 
 L'Apple II fu il primo modello della serie Apple II, seguito dall'Apple II+, dall'Apple IIe, dall'Apple IIc e dall'Apple IIgs a 16 bit, tutti rimasti compatibili. La produzione dell'ultimo modello disponibile, l'Apple IIe, è cessata nel novembre 1993.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette, disquette 5 pouces 1/4
+Contrôleur(s) : joystick, clavier
+
+L'Apple ][ (parfois orthographié Apple II ou Apple //) est l'un des premiers ordinateurs personnels au monde fabriqué à grande échelle. Conçu par Steve Wozniak, commercialisé le 10 juin 1977 par Apple, il commence sa carrière auprès des particuliers passionnés. Son premier tableur, VisiCalc en 1979, permit son entrée dans le monde professionnel et une augmentation très importante de ses ventes, faisant la richesse subite de la société Apple à cette époque.
+
+Les Apple ][ ont évolué au cours des années 1980, et ont été vendus jusqu'en 1993. Basé sur une architecture principalement 8 bits, il diffère complètement des Apple Macintosh introduits en 1984. Sa version de base  intègre 4 Ko de RAM, un lecteur de cassette et affiche 280 x 192 pixels en 6 couleurs.
+
+Sa ludothèque propose des titres légendaires comme Ultima, Prince of Persia, King's Quest, Sundog, Lode Runner ou Choplifter.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

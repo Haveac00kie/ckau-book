@@ -83,17 +83,22 @@ Features of the Pokémon mini include an internal real-time clock, an infrared p
 			<text lang="pl">Pokémon Mini – miniaturowa konsola firmy Nintendo przeznaczona do gier o Pokémonach.
 
 Jest to obecnie najmniejsza konsola z możliwością wymiany kartridży z grami. Wyposażono ją w urządzenie wibracyjne, czujnik wstrząsów oraz wbudowany zegar. Możliwe jest połączenie kilku urządzeń za pomocą podczerwieni dla gry bezprzewodowej. Konsola posiada monochromatyczny wyświetlacz LCD.</text>
-			<text lang="fr">Le Pokémon mini (ポケモンミニ) est une console de jeux vidéo portable conçue et distribuée par Nintendo et axée sur la franchise Pokémon. Elle est la plus petite console de jeux à cartouches produite par Nintendo. Elle possède un écran noir et blanc, et propose une horloge, un vibreur et un détecteur de choc. Elle dispose d'une connexion infrarouge permettant le jeu multijoueur.
-
-La console est conçue pour les jeunes enfants. Les jeux officiels sont simples et courts, et tous ont pour thème l'univers des Pokémon. Des jeux n'appartenant pas à cette franchise ont été annoncés par Nintendo, en particulier des adaptations de Game and Watch, mais ne sont jamais sortis.
-
-La console est rétro-ingénierée afin d'y développer des jeux amateurs.</text>
 			<text lang="ru">Портативная игровая система, разработанная и выпущенная Nintendo и посвящённая принадлежащей ей медиа-франшизе «Покемон». Она вышла 16 ноября 2001 года в Америке, 14 декабря в Японии и 15 марта 2002 года в Европе. Портативную консоль выпустили с тремя различными вариантами цвета корпуса: Wooper Blue, Chikorita Green и Smoochum Purple. Pokémon mini самая лёгкая портативная игровая консоль от Nintendo со сменными картриджами: она весит всего 70 граммов.
 
 В Pokémon Mini присутствуют часы реального времени, инфракрасный порт для многопользовательской игры, акселерометр и вибратор. В игре Pokémon Channel для Nintendo GameCube присутствуют демоверсии некоторых игр для Pokémon mini — они запускаются на приставке посредством эмуляции. Фанаты, научившиеся программировать консоль, разработали много своих любительских игр для этой системы.</text>
 			<text lang="it">Il Pokémon Mini (ufficialmente stilizzato come Pokémon mini) è una console portatile progettata e prodotta da Nintendo e incentrata sul franchise mediatico dei Pokémon. È la più piccola console di gioco con cartucce intercambiabili mai prodotta da Nintendo, con un peso di poco inferiore alle due once e mezzo (71 grammi). È stata rilasciata per la prima volta in Nord America il 16 novembre 2001 (due giorni prima dell'uscita del GameCube), poi in Giappone il 14 dicembre 2001 e in Europa il 15 marzo 2002. I sistemi sono stati distribuiti in tre colori: Wooper Blue, Chikorita Green e Smoochum Purple.
 
 Le caratteristiche del Pokémon mini includono un orologio interno in tempo reale, una porta a infrarossi utilizzata per facilitare il gioco multigiocatore, un interruttore reed per rilevare le scosse e un motore utilizzato per implementare il force feedback. Pokémon Channel offre versioni demo emulate giocabili dei giochi Pokémon Mini, tra cui l'esclusiva della console "Snorlax's Lunch Time". Giochi come "Togepi's Adventure" sono stati rilasciati solo in Giappone.</text>
+			<text lang="fr">Type : console portable
+Génération : sixième
+Média : cartouche
+Contrôleur(s) : touches directionnelles et 2 boutons
+
+Comme son nom l'indique, la Pokémon mini (ポケモンミニ) est une console de jeux vidéo portable dédiée à la franchise. Conçue pour les jeunes enfants, elle est la plus petite console à cartouches produite par Nintendo et les jeux officiels sont simples et courts.
+Elle ne pèse que 70 g et l'unique pile AAA lui confère une autonomie de 60 heures. Elle intègre un écran LCD monochrome de 96 x 64 pixels, un processeur 8-bit Epson S1C88 à 4 MHz, 4 Ko de mémoire vive, un détecteur de choc, un vibreur et un port infra-rouge pour le multijoueur.
+
+Seuls une dizaine de jeux officiels sont sortis, uniquement autour de l'univers Pokémon bien évidemment. Des adaptations Game & Watch ont été annoncés par Nintendo mais n'ont jamais vu le jour.
+La console existe en trois coloris : bleu (Axoloto), mauve (Lippouti) et vert (Germignon).</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

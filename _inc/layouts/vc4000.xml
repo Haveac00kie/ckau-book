@@ -106,6 +106,14 @@ VC 4000 была разработана ещё в 1974 году, однако в
 La console Interton VC 4000 è alimentata da una CPU Signetics 2650 (la stessa dell'Arcadia 2001) e da un controller Signetics 2636. Entrambi i controller contengono una tastiera a 12 pulsanti, due pulsanti di fuoco e un joystick. All'interno del pannello di controllo del sistema sono presenti quattro diversi pulsanti. L'interruttore ON/OFF, RESET, SELECT e START.
 
 La console è stata prodotta da diverse aziende e venduta con nomi diversi. Non tutte le console sono compatibili con le altre a causa delle differenze nelle forme e nelle dimensioni degli slot per le cartucce, ma tutti i sistemi sono compatibili con il software.</text>
+			<text lang="fr">Type : console de salon
+Génération : deuxième
+Média : cartouche
+Contrôleur(s) : joystick avec 14 + 2 boutons
+
+La VC4000 est une console 8-bits produite et distribuée par Interton en allemagne.
+La console est assez peu connue hors du pays mais de nombreux systèmes aux logiciels compatibles peuvent être trouvés sous le nom de la "1292 Advanced Programmable Video System" sortie en 1976.
+Les consoles ne sont pas toutes compatibles entre elles en raison de différences dans les formes et les dimensions des emplacements de cartouches.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

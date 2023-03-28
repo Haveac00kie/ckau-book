@@ -110,6 +110,15 @@ Na korzyść Adama przemawiało to, że od początku miał dużą bibliotekę op
 			<text lang="it">Il Coleco Adam è un home computer e un dispositivo di espansione per il ColecoVision rilasciato nel 1983 dal produttore americano di giocattoli e videogiochi Coleco. Si trattava di un tentativo di dare seguito al successo della console per videogiochi ColecoVision dell'azienda. L'Adam non ebbe molto successo, in parte a causa di problemi di produzione iniziali, e fu dismesso all'inizio del 1985.
 
 A suo favore, l'Adam disponeva fin dall'inizio di un'ampia libreria di software. Era derivato e compatibile con il software e gli accessori del ColecoVision e, inoltre, il popolare sistema operativo CP/M era disponibile come opzione. Il prezzo offriva un sistema completo: un computer da 80 kB di RAM, un'unità a nastro, una stampante di qualità letterale e un software che includeva il videogioco Buck Rogers: Planet of Zoom.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette, disquette 5 pouces 1/4
+Contrôleur(s) : joystick, clavier
+
+L'Adam est disponible en deux versions; un module d'extension pour la console ColecoVision et un ordinateur personnel. Il propose un clavier, un lecteur de cassettes, une imprimante, des connecteurs d'extension, un lecteur de disquette 5 pouces 1/4 et un modem 300 bauds.
+Il intègre un processeur 3.58 MHz, 1 Ko de RAM, 3 générateurs de ton et 1 de bruit, et affiche une résolution de 256 x 192 pixels et 32 sprites en 16 couleurs.
+
+Mais c'est un cuisant échec commercial en raison d'un prix excessif, d'une distribution limitée aux magasins de jouets et d'un retour en garantie de 60% des modèles vendus.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

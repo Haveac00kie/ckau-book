@@ -90,9 +90,6 @@ Amstrad/Schneider CPC był produkowany w kilku wersjach, wszystkich opartych (ta
 - wersja 472 z pamięcią 72 kB i magnetofonem jak w 464 (krótka seria na rynek hiszpański)[1];
 - wersja 664 z pamięcią 64 kB i wbudowaną stacją dyskietek 3" (standard specyficzny dla Amstrada/Schneidera, umożliwiał zapis 180 kB po każdej stronie dyskietki);
 - wersja 6128 z pamięcią 128 kB, zmodernizowaną klawiaturą i stacją dyskietek 3", umożliwiała wgranie systemu operacyjnego CP/M i AMSDOS.</text>
-			<text lang="fr">L'Amstrad CPC est un ordinateur personnel 8 bits produit par Amstrad dans les années 1980. CPC est le sigle de Colour Personal Computer, « ordinateur personnel couleur », même si une version dotée d'un moniteur monochrome était disponible.
-
-L'Amstrad CPC s'est vendu à environ trois millions d'exemplaires dans le monde, dont environ un million en France.</text>
 			<text lang="ru">Линейка 8-разрядных домашних компьютеров, выпускавшихся фирмой Amstrad с 1984 по 1990 год. CPC в названии означало Colour Personal Computer — «цветной персональный компьютер», хотя можно было купить как модель с зелёным экраном (GT65/66), так и со стандартным цветным дисплеем (CTM640).
 
 Линейка CPC оказалась довольно удачной, за всю историю производства CPC было продано около 3 млн экземпляров.
@@ -101,6 +98,16 @@ L'Amstrad CPC s'est vendu à environ trois millions d'exemplaires dans le monde,
 			<text lang="it">L'Amstrad CPC (abbreviazione di Colour Personal Computer) è una serie di home computer a 8 bit prodotti da Amstrad tra il 1984 e il 1990. Fu progettato per competere nel mercato degli home computer della metà degli anni Ottanta, dominato dal Commodore 64 e dal Sinclair ZX Spectrum, dove si affermò con successo soprattutto nel Regno Unito, in Francia, in Spagna e nelle regioni europee di lingua tedesca.
 
 La serie ha generato un totale di sei modelli distinti: Il CPC464, il CPC664 e il CPC6128 furono concorrenti di grande successo nel mercato europeo degli home computer. I successivi 464plus e 6128plus, destinati a prolungare il ciclo di vita del sistema con aggiornamenti hardware, ebbero un successo notevolmente inferiore, così come il tentativo di riconfezionare l'hardware plus in una console per videogiochi come il GX4000.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette, disquette 3 pouces
+Contrôleur(s) : joystick, clavier
+
+Le CPC est un ordinateur 8 bits produit par Amstrad, une société britannique de matériel Hi-Fi. CPC est le sigle de Colour Personal Computer, « ordinateur personnel couleur » et Amstrad vient des initiales de son fondateur, Alan Michael Sugar et de 'trademark'.
+Basé sur un processeur Zilog Z80 à 4 MHz, il dispose de 64 Ko de RAM et un lecteur de cassette pour la série CPC464, 64 Ko de RAM et un lecteur de disquette pour la série CPC664, 128 Ko de RAM avec lecteur de disquette pour le CPC6128 et un processeur sonore General Instrument à 3 canaux.
+
+Amstrad fait le choix d'une gamme familiale, facile d'accès, proposée à des prix raisonnables qui s'écoulera à trois millions d'exemplaires dans le monde, dont environ un million en France.
+La série s'éteindra en 1990 ne pouvant rivaliser avec l'arrivée de l'Amiga et de l'Atari ST.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

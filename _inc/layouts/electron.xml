@@ -104,6 +104,15 @@ Przez krótki okres czasu Electron był podobno najlepiej sprzedającym się mik
 L'Electron era in grado di salvare e caricare programmi su audiocassetta tramite un cavo convertitore in dotazione che lo collegava a qualsiasi registratore standard dotato delle prese corrette. Era in grado di realizzare grafica di base e di visualizzare su un televisore, un monitor a colori (RGB) o un monitor monocromatico.
 
 Per un breve periodo, l'Electron è stato il microcomputer più venduto nel Regno Unito, con una stima di 200.000-250.000 macchine vendute nel corso della sua intera vita commerciale.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette, disquette, cartouche
+Contôleur(s) : joystick, clavier
+
+L'Acorn Electron est une version entrée de gamme du BBC Micro avec seulement 32 Ko de mémoire vive et un système de mémoire sur 4 bits au lieu de 8 pour le BBC.
+Un magazine rapportait alors que les jeux conçus pour le BBC fonctionnaient "à moins de la moitié de leur vitesse".
+Bien que boudée par certains éditeurs, la machine dispose d'une bonne gamme de jeux, y compris les jeux multi-formats populaires tels que Chuckie Egg. En 1990, sa ludothèque compte 1400 jeux.
+Une cartouche conçue par Power Software permet de connecter un joystick.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -116,6 +116,14 @@ Arcadia 2001 была намного меньше других конкурир�
 L'Arcadia è molto più piccolo dei suoi concorrenti contemporanei ed è alimentato da un alimentatore standard da 12 volt, per cui può essere utilizzato anche in barca o in un veicolo. Dispone inoltre di due uscite (o ingressi) per cuffie sul retro dell'unità, all'estrema sinistra e all'estrema destra.
 
 Il sistema viene fornito con due controller in stile Intellivision con una tastiera a 12 tasti e pulsanti di fuoco sui lati. I pad direzionali sono dotati di un joystick rimovibile. La maggior parte dei giochi veniva fornita con sovrapposizioni BoPET che potevano essere applicate alle tastiere del controller. La console stessa aveva cinque pulsanti: accensione, avvio, reset, opzione e selezione.</text>
+			<text lang="fr">Type : console de salon
+Génération : deuxième
+Média : cartouche
+Contrôleur(s) : joystick 14 boutons
+
+La Arcadia 2001 est une console 8-bits commercialisée par Emerson Radio. Il en existe une trentaine de clones de par le monde. Bandai réalise sa version un an plus tard au Japon avec 4 jeux exclusifs dont Dr Slump.
+Elle dispose d'un processeur Signetics 2650 cadencé à 3.58 MHz et de 1 Ko de RAM. Elle affiche 4 sprites simultanément, une résolution de 128 x 208 pixels en monochrome et 128 x 104 pixels avec 9 couleurs et un simple beeper pour le son.
+Sa ludothèque totalise 47 jeux, en concurrence avec l'Atari 5200 et l'Intellivision.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -111,15 +111,23 @@ Specyfikacja techniczna:
 - Dźwięk: 24-kanałowy procesor ADPCM[13]
 - Napęd CD-ROM podwójnej prędkości
 - karty pamięci o pojemnościach 128, 256, 512 kB oraz 1, 2, 4, 8 MB (two in one)</text>
-			<text lang="fr">La PlayStation (プレイステーション, Purei Sutēshon) est une console de jeux vidéo de cinquième génération, produite par Sony Computer Entertainment à partir de 1994. La PlayStation originale fut la première machine de la gamme PlayStation, déclinée ensuite en PSone (une version plus petite et plus légère que l'originale).
-
-Le 18 mai 2004, soit près de dix ans après son lancement, Sony annonce avoir distribué 100 millions de consoles dans le monde et plus de 962 millions de jeux PlayStation.</text>
 			<text lang="ru">Игровая приставка пятого поколения, разработанная компанией Sony Computer Entertainment под руководством Кэна Кутараги. Релиз консоли состоялся 3 декабря 1994 года в Японии, в США приставка появилась 9 сентября 1995 года, а в Европе — 29 сентября 1995 года. Консоль является первой игровой системой в линейке PlayStation. В 2000 году вышла обновлённая версия консоли под названием PSone, которая отличалась от оригинальной PlayStation значительно меньшим размером. Приставка оказалась очень популярной, обеспечив Sony прорыв в игровой индустрии, где до того момента безраздельно властвовали Nintendo и Sega.
 
 3 декабря 2018 года в честь 24-ой годовщины выпуска оригинальной консоли была выпущена миниатюрная версия под названием PlayStation Classic, которая включает 20 предустановленных игр, таких как Grand Theft Auto, Final Fantasy VII, Tekken 3, Resident Evil.</text>
 			<text lang="it">PlayStation (giapponese: プレイステーション, Hepburn: Pureisutēshon, abbreviato ufficialmente in PS) è un marchio giapponese di videogiochi che consiste in cinque console per videogiochi domestici, oltre a un media center, un servizio online, una linea di controller, due palmari e un telefono, oltre a diverse riviste. Il marchio è prodotto da Sony Interactive Entertainment, una divisione di Sony, e la prima console è stata rilasciata come PlayStation in Giappone nel dicembre 1994 e in tutto il mondo l'anno successivo.
 
 La prima console della serie è stata la prima console di qualsiasi tipo a superare i 100 milioni di unità, in meno di un decennio. Il suo successore, la PlayStation 2, è stato rilasciato nel 2000. La PlayStation 2 è la console domestica più venduta fino ad oggi, avendo superato i 155 milioni di unità vendute alla fine del 2012. La console successiva di Sony, la PlayStation 3, è uscita nel 2006 e ha venduto oltre 87,4 milioni di unità a marzo 2017. La successiva Playstation 4 è stata rilasciata nel 2013 e ha venduto un milione di unità in un solo giorno, diventando la console che ha venduto più velocemente nella storia. L'ultima console della serie, la PlayStation 5, è uscita a novembre 2020.</text>
+			<text lang="fr">Type : console de salon
+Génération : cinquième
+Média : CD-Rom
+Contrôleur(s) : manette analogique, dualshock, pistolet
+
+L'année 1994 marque l'arrivée d'un constructeur néophyte dans un marché des consoles alors dominé par Sega et Nintendo, il s'appelle Sony. La PlayStation (プレイステーション, Purei Sutēshon), fut le premier de la gamme, décliné ensuite en PSone, plus petite et plus légère.
+En tête des ventes cinq années durant, Sony balaie la concurrence grâce à ses caractéristiques uniques : 3D, lecteur CD audio, résolution, couleurs et une ludothèque conséquente.
+
+En 2004, un peu moins de dix ans après son lancement, Sony annonce avoir dépassé les 100 millions de consoles vendues dans le monde, plus de 962 millions de jeux PlayStation et 122 titres ont dépassé le million d'unités vendues. Des chiffres étourdissants pour une décennie où le jeu vidéo n'était pas aussi démocratisé qu'aujourd'hui.
+Ses concurrentes, la Nintendo 64 ne se vendra qu'à 55 millions d'exemplaires et la Sega Saturn, supposée prendre 50% de part de marché n'en obtiendra que 8%.
+A ce jour, la Playstation reste la 4ème console la plus vendue de tous les temps.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -99,6 +99,14 @@ Jest następcą linii konsol APF TV Fun pierwszej generacji.</text>
 			<text lang="it">L'APF Microcomputer System è una console per videogiochi domestici a 8 bit di seconda generazione, rilasciata nell'ottobre 1978 da APF Electronics Inc. con sei cartucce. La console viene spesso indicata come M-1000 o MP-1000, che sono i due numeri di modello della console. L'APF-MP1000 veniva fornito con il gioco Rocket Patrol. L'APF-MP1000 fa parte della APF Imagination Machine.
 
 È il successore della linea di console APF TV Fun di prima generazione.</text>
+			<text lang="fr">Type : console de salon
+Génération : deuxième
+Média : cartouche
+Contrôleur(s) : joystick avec pavé 12 touches
+
+L'APF-MP1000 est une console développée aux Etats-Unis. Elle est équipée d'un processeur 68000 8 bits à 3.579 MHz et de 1 Ko de mémoire vive. Elle peut afficher une résolution de 256 x 192 pixels en 8 couleurs et un haut-parleur intégré.
+Elle fonctionne uniquement sur un téléviseur couleur et est livrée avec le jeu Rocket Patrol.
+Sans avoir la même envergure, on la compare souvent à l'Intellivision de Mattel, une console de la même période.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

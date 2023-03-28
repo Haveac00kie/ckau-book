@@ -99,6 +99,16 @@ Le Vectrex est, par mégarde, souvent appelé de nos jours la Vectrex. Cette der
 			<text lang="it">Il Vectrex è una console per videogiochi domestica basata su display vettoriali, l'unica mai progettata e rilasciata per il mercato domestico, sviluppata da Smith Engineering. È stata commercializzata per la prima volta in Nord America nel novembre 1982 e poi in Europa e Giappone nel 1983. Originariamente prodotta da General Consumer Electronics, fu poi data in licenza a Milton Bradley dopo l'acquisizione della società. Bandai distribuì il sistema in Giappone.
 
 Il Vectrex, a differenza di altri sistemi di videogiochi disponibili all'epoca, era dotato di un monitor CRT monocromatico integrato e non aveva bisogno di essere collegato a un televisore, in quanto forniva il proprio display incorporato. Un pad di controllo a filo staccabile era montato e poteva essere ripiegato sulla base inferiore della console. I giochi includevano fogli traslucidi a colori che potevano essere posizionati sopra lo schermo monocromatico. Furono prodotte diverse periferiche, come un paio di occhiali 3D noti come "3D Imager" e una "light-pen" che permetteva al giocatore di disegnare direttamente sullo schermo. Un gioco integrato, Mine Storm, era giocabile senza inserire una cartuccia.</text>
+			<text lang="fr">Type : console de salon
+Génération : deuxième
+Média : cartouche
+Contrôleur(s) : stick et 4 boutons
+
+La Vectrex est une console de jeux vidéo 8 bits distribuée par General Consumer Electric, et plus tard par MB (Milton Bradley Company) après le rachat de GCE. Sa production est arrêtée en 1984 après le krach du jeu vidéo de 1983.
+Elle inclut son propre moniteur contrairement aux autres consoles connectées à un téléviseur. Il lui permet d'afficher des graphismes vectoriels monochromes très fins et supérieurs aux machines concurrentes qui fonctionnent en bitmap.
+Pour palier au manque de couleur, chaque jeu est fourni avec un filtre en plastique coloré à glisser devant l'écran.
+
+Equipée de son processeur Motorola à 1.6 MHz et 1 Ko de mémoire vive, elle est la première console à proposer des graphismes 3D non texturés en haute résolution et des lunettes 3D.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

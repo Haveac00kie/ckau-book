@@ -101,6 +101,13 @@ TI-99/4A pojawił się na rynku mniej więcej w tym samym czasie, co Commodore V
 			<text lang="it">Il TI-99/4 è un home computer rilasciato alla fine del 1979 da Texas Instruments. Basato sul microprocessore Texas Instruments TMS9900, originariamente utilizzato nei minicomputer, è stato il primo home computer a 16 bit. Il controller video associato fornisce grafica a colori e uno dei migliori supporti per gli sprite dell'epoca.
 
 Include un design interno semplificato, una tastiera a corsa completa, una grafica migliorata e un sistema di espansione unico. Con un prezzo dimezzato rispetto al modello originale, le vendite aumentarono notevolmente. TI supportò il 4A con periferiche, tra cui un sintetizzatore vocale e un box "Peripheral Expansion System" per contenere componenti hardware aggiuntivi. TI rilasciò informazioni e strumenti per gli sviluppatori, ma l'insistenza nel voler rimanere l'unico editore continuò a privare la piattaforma di software.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cartouche, disquette
+Contrôleur(s) : joystick 1 bouton, clavier
+
+Le TI-99/4 est l'un des premiers ordinateurs familiaux malgré ses similitudes avec le concept de console comme la possibilité d'être branché sur un téléviseur péritel, un lecteur de cartouches et un connecteur pour deux manettes.
+Il est équipé d'un processeur 16 bits à 3.3 MHz, de 16 Ko de mémoire vive et un processeur graphique TMS9918A dont il tire son nom. Il affiche 256 x 192 pixels en 16 couleurs et 32 sprites. Il pouvait aussi lire les cassettes audio.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

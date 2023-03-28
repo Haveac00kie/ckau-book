@@ -95,13 +95,6 @@ Monitor z wyświetlaczem RGB dla X1 posiadał tuner telewizyjny, a ekran kompute
 Podczas gdy X1 z trudem się sprzedawał, PC8801 (firmy NEC) szybko zyskiwał popularność na rynku japońskim. W 1984 roku Sharp wypuścił serię X1 turbo z grafiką o wysokiej rozdzielczości (640x400, podczas gdy X1 miał 640x200). Posiadała ona wiele ulepszeń, ale prędkość zegara nadal wynosiła tylko 4 MHz. W 1986 roku Sharp wypuścił serię X1 turbo Z z analogowym monitorem RGB o rozdzielczości 4096 kolorów. Bliźniak X1, który posiadał silnik PC w obudowie, został ostatecznie wydany jako ostatnia maszyna z serii X1 w 1987 roku. Następnie seria ta została zastąpiona przez serię X68000.
 
 Firma Sharp kontynuuje sprzedaż komputerów stacjonarnych i telewizorów w Japonii w ramach internetowej linii Aquos, gdzie dostępny jest czerwony schemat kolorów w stylu X1.</text>
-			<text lang="fr">Bien que ce soit la division de Sharp consacrée aux ordinateurs personnels qui a créé la série des MZ (tels que le MZ-80K), cette fois c'est la division pour la création de télévision qui s'est occupée de cette nouvelle série. À l'époque à laquelle le premier X1 est sorti, la plupart des ordinateurs personnels possédaient une mémoire morte programmée en BASIC. Cependant, le X1 n'utilisait pas le langage BASIC mais chargeait directement l'interprète depuis une cassette audio. De plus, ce concept permettait l'accès à un espace pour la mémoire vive via l'enregistrement des données. Le design du X1 était aussi plus stylisé que ses concurrents de la même époque et un choix de différentes couleurs était disponible.
-
-Le moniteur d'ordinateur disposait d'un tuner, et un écran d'ordinateur pouvait être superposé à la télévision. Toutes les fonctions télévisuelles étaient alors contrôlables depuis un programme informatique. L'intégralité de la mémoire vidéo était située dans la zone des entrées-sorties. L'ensemble de ces éléments faisait du X1 une plate-forme de jeu de qualité pour son époque.
-
-Alors que Sharp se battait pour vendre son X1, le PC-88 de NEC gagna en notoriété sur le marché japonais. En 1984, Sharp réalisa la série des X1 Turbo dotés d'une meilleure résolution graphique (640x400, tandis que celle du X1 originale était 640x200). Cette série connut de nombreuses améliorations mais la fréquence d'horloge stagna à 4 MHz. En 1986, Sharp sortit une nouvelle gamme, les X1 Turbo Z avec une gamme de 4 096 couleurs. Enfin, en 1987, un clone du X1 fut créé en tant que dernière série. Il intégrait les fonctionnalités de la console PC-Engine.
-
-Le Sharp X1 a ensuite été remplacé par la série des Sharp X68000.</text>
 			<text lang="de">In den Endzügen der MZ80-Baureihe brachte Sharps TV-Division ab 1982 den X1 auf den Markt (CZ-800C). Diese erste Variante weist Ähnlichkeiten auf zur MZ80-Variante des MZ2000, ist jedoch nicht mit diesem kompatibel. Auffälligstes Merkmal war zunächst die rote Gehäusefarbe. Weiterhin bestehen Anschlussmöglichkeiten an Radio- oder TV-Empfänger. Die Hardware setzte sich zusammen aus einer auf 4 MHz getakteten Z80A-CPU mit 64 kB RAM, 4 kB VRAM (maximal erweiterbar auf 48 kB) und einer Grafikauflösung von 640 × 200 Bildpunkten. Als Massenspeicher wurde ein Kassettenlaufwerk verwendet.
 
 Gemäß Sharps Clean-Computer-Konzept, das auch bei der MZ-Baureihe zur Anwendung kam, besitzt der Rechner kein integriertes BASIC-ROM oder ein sonstiges Betriebssystem. Stattdessen musste das Betriebssystem über einen Datenträger eingelesen werden (Tape Basic, Disk Basic). Dadurch hatte der Nutzer die freie Wahl des Betriebssystems, das beim Start in den Arbeitsspeicher geladen wurde. Im Gegenzug verzögerte sich dadurch die Startzeit bis zur vollen Einsatzbereitschaft des Geräts. Das Gerät war als Multimedia-System konzipiert und konnte in Verbindung mit dem X1-Monitor Text oder Grafiken über dem Fernsehbild einblenden.</text>
@@ -121,6 +114,17 @@ Il monitor RGB dell'X1 era dotato di sintonizzatore televisivo e lo schermo del 
 Mentre l'X1 faticava a vendere, il PC8801 (di NEC) stava rapidamente diventando popolare sul mercato giapponese. Nel 1984, Sharp rilasciò la serie X1 turbo con grafica ad alta risoluzione (640x400, mentre X1 aveva 640x200). Presentava molti miglioramenti, ma la velocità di clock era ancora di soli 4 MHz. Nel 1986, Sharp rilasciò la serie X1 turbo Z con un monitor RGB analogico a 4096 colori. Un gemello dell'X1, che aveva un PC-Engine nel cabinet, fu infine rilasciato come ultima macchina della serie X1 nel 1987. A questa serie successe poi la serie X68000.
 
 Sharp continua a vendere PC/TV combinati in Giappone attraverso la linea Internet Aquos, dove è disponibile una combinazione di colori rossi in stile X1.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : disquette, cassette
+Contrôleur(s) : clavier
+
+Bien que la série MZ (MZ-80K) a été conçu par la division Ordinateurs de Sharp, la conception du X1 est confiée au département Téléviseurs.
+Le moniteur d'ordinateur disposait d'un tuner, et un écran d'ordinateur pouvait être superposé à la télévision. Toutes les fonctions télévisuelles étaient alors contrôlables depuis un programme informatique.
+Equipé d'un Zylog Z80A à 4 MHz, de 64 Ko de RAM et un son sur 3 canaux, le X1 est une plateforme de jeu de qualité pour son époque.
+
+La notoriété du PC-88 de NEC pousse Sharp à réaliser le X1 Turbo en 1984, doté d'une meilleure résolution graphique (640x400 contre 640x200 pour le X1), puis le X1 Turbo Z en 1986 avec une gamme de 4 096 couleurs. Enfin, en 1987, sortira un clone compatible avec la PC-Engine.
+Le Sharp X1 a ensuite été remplacé par la série des Sharp X68000.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

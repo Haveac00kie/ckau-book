@@ -92,6 +92,16 @@ Firma IBM udzieliła licencji i ponownie wydała go w 1981 roku jako PC DOS 1.0 
 			<text lang="it">MS-DOS (em-es-DOSS; acronimo di Microsoft Disk Operating System) è un sistema operativo per personal computer basati su x86 sviluppato principalmente da Microsoft. Collettivamente, MS-DOS, il suo rebranding come IBM PC DOS e alcuni sistemi operativi che tentano di essere compatibili con MS-DOS, sono a volte indicati come "DOS" (che è anche l'acronimo generico per sistema operativo su disco). L'MS-DOS è stato il principale sistema operativo per i personal computer IBM PC compatibili durante gli anni '80. Da quel momento è stato gradualmente sostituito da sistemi operativi che offrivano un'interfaccia grafica (GUI), in varie generazioni del sistema operativo grafico Microsoft Windows.
 
 IBM lo concesse in licenza e lo ripubblicò nel 1981 come PC DOS 1.0 per l'uso nei suoi PC. Sebbene MS-DOS e PC DOS siano stati inizialmente sviluppati in parallelo da Microsoft e IBM, i due prodotti si sono separati dopo dodici anni, nel 1993, con differenze riconoscibili in termini di compatibilità, sintassi e capacità.</text>
+			<text lang="fr">Type : système d'exploitation
+Génération : toutes
+Média : CD-Rom, disque dur, disquette
+Contrôleur(s) : manette, clavier, souris
+
+Un DOS (Disk Operating System) est un système d'exploitation principalement piloté par lignes de commande.
+Celui développé par MicroSoft, le MS-DOS, voit le jour en 1981 et fonctionne sur des IBM-PC puis sur les compatibles PC basés sur des processeurs Intel; les i286 à 6-20 MHz en 1982, les i386 à 12-40 MHz en 1985, les i486 à 24-80 MHz en 1989 et, enfin la série des Pentium dès 1993 dont la puissance explose la vitesse d'exécution.
+Le mode graphique des premiers jeux affiche 320 x 200 pixels en 4 couleurs (CGA) puis ne cesse d'évoluer avec la puissance des processeurs, mode EGA, VGA pour atteindre 256 couleurs en 640 x 480 ou 16 couleurs en 1024 x 768 avec le mode SVGA en 1988.
+Avec l'amélioration de la capacité mémoire, des cartes graphiques 2D, des accélérateurs 3D, MS-DOS fera progressivement place aux systèmes d'exploitation graphiques comme Windows.
+Le DOS n'a pas complètement disparu puisqu'il reste encore dans nos systèmes actuels des outils en ligne de commande plus connus sous le nom d'invite de commandes.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

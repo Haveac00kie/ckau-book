@@ -103,6 +103,14 @@
 			<text lang="pl">DAPHNE to aplikacja emulująca różne gry wideo na dyskach laserowych, której celem jest zachowanie tych gier i sprawienie, by wrażenia z gry były jak najbardziej wierne oryginałom. Twórca nazywa DAPHNE "First Ever Multiple Arcade Laserdisc Emulator" ("FEMALE"). Jego nazwa pochodzi od księżniczki Daphne, bohaterki gry Dragon's Lair.</text>
 			<text lang="ru">DAPHNE - мультиаркадный эмулятор LaserDisc, цель - сохранить игры и сделать игровой процесс максимально приближенным к оригиналам. Разработчик называет DAPHNE «первым в истории эмулятором лазерных дисков с несколькими аркадными играми» («ЖЕНСКИЙ»). Он получил свое название от принцессы Дафны, героини Dragon's Lair.</text>
 			<text lang="it">DAPHNE è un'applicazione di emulazione arcade che emula una serie di videogiochi laserdisc con l'intento di preservarli e rendere l'esperienza di gioco il più fedele possibile agli originali. Lo sviluppatore chiama DAPHNE "First Ever Multiple Arcade Laserdisc Emulator" ("FEMALE"). Il suo nome deriva dalla principessa Daphne, l'eroina di Dragon's Lair.</text>
+			<text lang="fr">Type : borne d'arcade
+Génération : quatrième
+Média : Laser Disc
+Contrôleur(s) : arcade stick & autres
+
+La technologie Laserdic repose sur des séquences vidéos pré-enregistrées lues depuis un disque laser pour les décors et affiche par-dessus des éléments interactifs. Cette astuce permet de compenser la basse résolution des jeux au détriment d'une expérience très simplifiée.
+Le premier jeu d'arcade laserdisc fut Astron Belt, par Sega en 1982. Mais le plus populaire demeure Dragon's Lair en 1983. Il contient des scènes animées par Don Bluth,  et vous devez presser un bouton spécifique au bon moment pour poursuivre l'aventure; comme un "Quick Time Event".
+</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

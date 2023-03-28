@@ -110,6 +110,16 @@ Atom стал очередным шагом в ряду машин на осно
 L'Atom era un'evoluzione delle macchine basate sulla tecnologia MOS 6502 che l'azienda aveva prodotto a partire dal 1979. L'Atom è un Acorn System 3 ridotto senza unità disco, ma con una tastiera integrata e un'interfaccia a cassette, venduto in kit o in forma completa. Nel 1980 il prezzo oscillava tra le 120 sterline in kit, le 170 sterline (equivalenti a 745 sterline nel 2020) per la versione pronta per l'assemblaggio e le oltre 200 sterline per la versione completamente espansa con 12 KB di RAM e la ROM di estensione in virgola mobile.
 
 Era dotato di un chip video MC6847 Video Display Generator (VDG), che consentiva di utilizzare sia la modalità testo che quella grafica. Poteva essere collegato a un televisore o modificato per l'uscita a un monitor video. La memoria video di base era di 1 KB, ma poteva essere espansa fino a 6 KB. Poiché l'MC6847 era in grado di emettere solo immagini a 60 Hz, il che significava che il video non poteva essere gestito da gran parte dei televisori europei, in seguito fu resa disponibile una scheda a colori PAL a 50 Hz. Erano disponibili sei modalità video, con risoluzioni da 64×64 in 4 colori, fino a 256×192 in monocromia. All'epoca, 256×192 era considerata un'alta risoluzione.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette, disquette 5 1/4
+Contrôleur(s) : clavier
+
+L'Atom connait une durée de vie limitée, à peine deux ans, et est remplacé par le BBC Micro en 1982, lui-même présenté comme une mise à niveau de l'Atom.
+Il s'agit d'un Acorn System 3 miniaturisé sans lecteur de disquette mais avec clavier intégré et un lecteur de cassette.
+
+Doté d'un processeur MOS 6502 à 1 MHz et de 2 Ko de mémoire (extensible à 12), il affiche une résolution pouvant atteindre 64 x 192 pixels en 4 couleurs ou 256 x 192 pixels en monochrome.
+Pour le son, un simple haut-parleur interne à un seul canal.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

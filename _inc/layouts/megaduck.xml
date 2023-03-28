@@ -86,6 +86,15 @@ Carts są około 2 1/8 cala na 2 1/2 cala z 36 pinami, aby połączyć się z gn
 			<text lang="it">Il Mega Duck è stato distribuito da Creatronic, Videojet e Timlex nel 1993, principalmente in Germania e Francia. Assomiglia a un Game Boy con lo schermo verde monocromatico, i tasti "start", "Select", "A" e "B" e il pad direzionale, ma le somiglianze finiscono qui.
 
 Le cartucce sono di circa 2,8 pollici per 2,5 pollici con 36 pin da collegare allo slot per cartucce del Mega Duck (a differenza dei 32 pin del Game Boy o dei 40 pin del Supervision).</text>
+			<text lang="fr">Type : console portable
+Génération : quatrième
+Média : cartouche
+Contrôleur(s) : touches directionnelles & 2 boutons
+
+La Mega Duck (ou Cougar Boy en Amérique du Sud) est le fruit d'une collaboration triple entre Creatronic, Videojet et Timlex.
+
+La console dispose du processeur Z80 cadencé à 4.19 mHZ, 16 Ko de RAM, un haut-parleur mono, une sortie casque stéréo et un affichage de 160 x 144 en 4 niveaux de bleu.
+36 jeux sont disponibles dont certains jouables à deux avec un joystick externe.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -98,6 +98,15 @@ Konsola była wyposażona we wbudowany napęd CD-ROM i stację dysków. Bazował
 			<text lang="it">FM Towns Marty è una console per videogiochi domestica di quinta generazione rilasciata nel 1993 da Fujitsu, esclusivamente per il mercato giapponese. Spesso si sostiene che sia il primo sistema di videogiochi domestico basato su CD a 32 bit, anche se ha un bus dati a 16 bit, proprio come i precedenti Commodore CDTV e Sega CD, entrambi dotati di processori Motorola 68000, che internamente sono simili a 16/32 bit, ma con un bus dati a 16 bit.
 
 La console era dotata di un lettore CD-ROM e di un'unità disco integrati. Era basata sul precedente sistema informatico FM Towns che Fujitsu aveva rilasciato nel 1989. Il Marty era retrocompatibile con i vecchi giochi FM Towns.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième et cinquième
+Média : CD-Rom
+Contrôleur(s) : manette 2 ou 4 boutons
+
+Ce système est une variante du PC mais axé sur le multimédia et le jeu vidéo.
+Au fil de ses évolutions jusqu'en 1997, il a été équipé de x386, x486 et Pentium cadencés de 16 à 100 MHz. Il inclut des modes graphiques allant de 320 x 240 à 640 x 480 pixels, en 16 à 32000 couleurs sur une palette allant de 4096 à 16 millions. Il peut afficher 1024 sprites simultanément et pour l'audio, un lecteur CD-Rom et un carte sonore 8 voies PCM et 6 canaux FM.
+
+Son catalogue de jeux est très varié et comporte des conversions d'arcade (parfaites) ainsi que de nombreux jeux Hentai (animés pour adultes).</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

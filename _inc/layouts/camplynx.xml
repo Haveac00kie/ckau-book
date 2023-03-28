@@ -107,6 +107,16 @@ La macchina era basata su una CPU Z80A con clock a 4 MHz (6 MHz per i modelli da
 
 Il computer funzionava sempre in modalità grafica ad "alta" risoluzione (256x252 pixel in otto colori) utilizzando caratteri da 10 pixel per sei volte. Per il suono aveva un semplice DAC (6 bit). Era incluso un comparatore che fungeva da ADC (utilizzato principalmente per la lettura da unità a nastro).
 Rispetto, ad esempio, al Commodore 64, il BASIC era più esteso e più veloce e la risoluzione della grafica era migliore; i giochi per computer, invece, soffrivano dell'implementazione speciale e della mancanza di hardware per il suono e gli sprite.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cassette, disquette 5,25"
+Contrôleur(s) : clavier
+
+Le Lynx est une machine britannique 8-bit embarquant un processeur Zylog Z80 cadencé à 4 MHz et 48 ko de mémoire vive, disponible aussi en version 96 ko. 
+Une version 128 ko (extensible à 192 ko) embarque en plus un contrôleur vidéo 6845 de Motorola. En s'équipant du lecteur de disquette optionnel, on peut lancer CP/M sur les versions 96 ko et 128 ko.
+
+L'ordinateur se lance toujours en "haute" résolution (256x252 pixels en 8 couleurs) avec des caractères de 6x10 pixels. Le son utilise un simple chipset sur 6 bits et un convertisseur analogique/numérique permet de lire les bandes magnétiques à cassette.
+Comparé au Commodore 64 par exemple, le langage BASIC est plus complet, rapide et la résolution graphique meilleure tandis que, côté jeux, il souffre de lacunes techniques comme le son et les sprites.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

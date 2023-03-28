@@ -87,6 +87,15 @@ Silnik jest łatwo konfigurowalny. Można modyfikować wiele elementów gry, m.i
 La parola "mugen" deriva probabilmente dalla lingua giapponese, dove significa sogno, fantasia o infinito. Ufficialmente Elecbyte dichiara di aver dimenticato il significato dell'acronimo scelto per il nome, ma la documentazione inclusa suggerisce che il motore era originariamente destinato agli shoot'em up.
 
 Il motore è facilmente configurabile. È possibile modificare molti elementi del gioco, compresi i personaggi, le arene e l'aspetto del motore stesso. La comunità di M.U.G.E.N è incentrata su forum tematici su Internet, dove gli utenti condividono i giochi che hanno creato, nonché i personaggi, che spesso rappresentano personaggi di popolari giochi per computer.</text>
+			<text lang="fr">Type : moteur de jeu 2D
+Génération : v1.1 beta 1
+Média : fichiers
+Contrôleur(s) : manette, clavier
+
+MUGEN est un moteur pour les jeux de combat en 2D. Elecbyte distribua gratuitement de nombreuses version beta tournant sous DOS, Linux et Windows.
+Le moteur permet de créer des personnages, décors et autres composantes de jeu par le biais d'une compilation de fichiers texte, graphiques et sonores. Il support également les fichiers MP3 afin de mettre des musiques de fond pendant le jeu.
+
+Ce moteur est assez avancé et flexible pour égaler certains jeux de combat 2D commerciaux.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

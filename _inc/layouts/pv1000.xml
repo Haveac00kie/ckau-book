@@ -106,6 +106,15 @@ PV-1000 jest napędzana przez procesor Zilog Z80, posiada 2 KB pamięci RAM, z c
 Il PV-1000 è stato rilasciato nell'ottobre 1983. Venne commercializzata solo in Giappone, dove fu venduta al prezzo di 14.800 yen. Casio non riuscì a raggiungere una quota di mercato significativa. Secondo retrogames.co.uk, la console fu ritirata dopo alcune settimane a causa delle scarse vendite.
 
 Il PV-1000 è alimentato da una CPU Zilog Z80, con 2 KB di RAM, di cui 1 KB allocato come VRAM. Dispone inoltre di un ulteriore 1 KB dedicato a un generatore di caratteri. La grafica è stata fornita da un Texas Instruments TMS9918, che genera una risoluzione di 256x192 pixel a 8 colori. La console contiene un chip NEC D65010G031 utilizzato per l'output video e audio. Disponeva di tre voci a onda quadra con 6 bit per il controllo del periodo.</text>
+			<text lang="fr">Type : console de salon
+Génération : troisième
+Média : cartouche
+Contrôleur(s) : joystick
+
+La PV-1000 se démarque avant tout pour sa rareté car elle est sans doute l'une des consoles les plus éphémères ayant jamais existé. Mise sur le marché japonais à l'automne 1983, ses faibles ventes ne lui ont permis d'être disponible en magasin que quelques semaines et sa ludothèque se limite aux 15 jeux édités pour sa sortie.
+Elle est équipée d'un Zilog Z80 à 3.5 MHz et 2 Ko de mémoire vive. Sa résolution est de 256 x 192 pixels en 8 couleurs.
+
+En 1984, Casio enchaine avec un PV-2000, qui peut accueillir les manettes du premier modèle mais pas les jeux. Puis, la même année, deux autres consoles basées sur le standard MSX, la PV-7 et la PV-16.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

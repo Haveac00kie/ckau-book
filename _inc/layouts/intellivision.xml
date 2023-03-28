@@ -101,15 +101,24 @@ Dane techniczne:
 - Maksymalna liczba spritów - 8
 - Chip audio: General Instrument AY-3-8914
 - Trzy kanały dźwięku w tym generator szumu(noise)</text>
-			<text lang="fr">L'Intellivision est une console de jeux vidéo produite par Mattel et sortie en 1979. Le développement de la console a commencé en 1978, moins d'une année après l'introduction de sa principale concurrente, l'Atari 2600.
-
-En 1982 sortit l'Intellivoice Synthesis Voice Module. Le périphérique se branchait sur le lecteur cartouche de la console (l'add-on le substituait avec son propre lecteur). Le module pouvait améliorer le son, ce qui délivrait la capacité de synthétiser des voix audibles dans les jeux compatibles (même si la technologie est sommaire, ce qui fait que les voix soient robotiques). Les ventes furent décevantes, le périphérique est abandonné l'année suivante, même si des versions internationales devaient suivre. La faute au prix du module, 100 $ sans jeux inclus, mais également au prix des jeux, 45 $ qui chutaient lentement par rapport aux jeux classiques ainsi qu'à la ludothèque faible composée de seulement 5 jeux : B-17 Bomber, Bomb Squad, Space Spartans, Tron Solar Sailer et Intellivision World Series Baseball.</text>
 			<text lang="ru">Игровая приставка, выпущенная на рынок компанией Mattel в 1979 году. Разработка консоли началась в 1978 году, менее чем через год после выхода её основного конкурента — Atari 2600. Название «Intellivision» составлено из слов «intelligent television» — «интеллектуальное телевидение».
 
 Создание Intellivision началось, как и в случае с многими другими игровыми приставками 80-х годов, под влиянием высоких продаж Atari VCS. Сбросить короля с трона компания Mattel намеревалась при помощи достаточно продвинутой по тем временам графики, неплохих игр (по большей части спортивных) и главной «опции» — дополнительной клавиатуры, превращавшей детскую игрушку в полновесный домашний компьютер.</text>
 			<text lang="it">L'Intellivision è una console per videogiochi domestica rilasciata da Mattel Electronics nel 1979. Il nome Intellivision è una crasi di "intelligent television". Lo sviluppo della console iniziò nel 1977, lo stesso anno dell'introduzione del suo principale concorrente, l'Atari 2600. Dal 1980 al 1983 sono state vendute oltre 3 milioni di unità Intellivision. Nel 1984 Mattel vendette i propri asset videoludici a un ex dirigente di Mattel Electronics e a degli investitori che formarono un'entità che divenne INTV Corporation. Lo sviluppo dei giochi, iniziato nel 1978, continuò fino al 1990, quando l'Intellivision fu dismesso.
 
 Nel 2009, il sito web di videogiochi IGN ha nominato l'Intellivision la più grande console per videogiochi di tutti i tempi. Rimase l'unica console per videogiochi di Mattel fino all'uscita dell'HyperScan nel 2006.</text>
+			<text lang="fr">Type : console de salon
+Génération : deuxième
+Média : cartouche
+Contrôleur(s) : pad 16 directions & 15 touches
+
+Le développement de la console a commencé en 1978, moins d'une année après l'introduction de sa principale concurrente, l'Atari 2600. Dès sa sortie, elle se positionne comme une menace sérieuse à la domination d'Atari.
+
+Elle est équipée d'un processeur 16-bits (dont 10 seulement sont utilisés) à 1 MHz, 1 Ko de RAM, un son 3 voies et affiche 160 x 196 pixels en 16 couleurs.
+Des périphériques verront le jour, uniquememnt aux USA, comme un module de synthèse vocale, l'Intellivoice Synthesis Voice Module, ou encore le module PlayCable proposant un service de jeux en ligne via le réseau câblé américain.
+Un peu moins de 200 titres garnissent le catalogue de jeux.
+
+Environ 3 millions d'unités sont vendues mais la crise du jeu video de 1983 provoque le fin de sa production en 1984.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

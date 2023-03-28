@@ -95,6 +95,14 @@ The computer was launched in Japan in 1982, and in the UK and the United States 
 			<text lang="it">Il Tomy Tutor, originariamente venduto in Giappone come Pyūta (ぴゅう太) e nel Regno Unito come Grandstand Tutor, è un home computer prodotto dal produttore di giocattoli giapponese Tomy. Era architettonicamente simile, ma non identico, al Texas Instruments TI-99/4A e utilizzava una CPU Texas Instruments a 16 bit simile.
 
 Il computer fu lanciato in Giappone nel 1982 e nel Regno Unito e negli Stati Uniti l'anno successivo.</text>
+			<text lang="fr">Type : ordinateur personnel
+Génération : quatrième
+Média : cartouche, cassette
+Contrôleur(s) : joystick 1 bouton, clavier
+
+Le Tutor est un micro-ordinateur développé par Matsuhita pour le compte de Tomy en 1982. Principalement destiné au jeune public japonais, c'est un appareil hybride qui reprend sur bien des points la technologie du TI-99/4A.
+Tout en lui apportant la puissance d'un processeur TMS9998 16 bits, supérieure à celle des concurrents dans la même gamme de prix, il embarque 16 Ko de mémoire vive et affiche une résolution de 256 x 192 pixels avec la gestion de 32 sprites et une palette de 16 couleurs.
+Mais en raison d'une mauvaise communication, l'ordinateur est un échec commercial.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -83,6 +83,16 @@ Grę można również spakować do odtwarzacza, który działa na wszystkich pop
 Ci sono strumenti integrati per lo sviluppo: codice, sprite, mappe, editor di suoni e linea di comando, sufficienti per creare un mini gioco retrò. All'uscita si otterrà un file di cartuccia, che potrà essere memorizzato e giocato sul sito web.
 
 Inoltre, il gioco può essere inserito in un lettore che funziona su tutte le piattaforme più diffuse e distribuito a piacimento. Per realizzare un gioco in stile retrò, l'intero processo di creazione si svolge con alcune limitazioni tecniche: Display da 240x136 pixel, tavolozza di 16 colori, 256 sprite da 8x8 colori, suono a 4 canali e così via.</text>
+			<text lang="fr">Type : moteur de jeu
+Génération : v0.80+
+Média : fichiers .tic
+Contrôleur(s) : manette, clavier, souris
+
+Le TIC-80 est un ordinateur virtuel qui n'a jamais existé physiquement, conçu par Nesbox pour facilement concevoir, jouer et partager des mini-jeux.
+Pour respecter un style rétro, les limitations techniques de la machine sont un affichage de 16 couleurs en 240 x 136 pixels, 256 sprites couleur en 8 x 8 et un son sur 4 canaux.
+
+L'outil de développement intégré est en ligne de commande et une interface facilite la création des sprites et de la musique.
+Il vous permet d'obtenir le fichier de la cartouche virtuelle à partager. Le demake de "Super Meat Boy" fut, parmi tant d'autres, réalisé sur cette machine.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

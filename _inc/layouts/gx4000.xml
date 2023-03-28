@@ -110,9 +110,6 @@ Dane techniczne:
 - Pamięć:RAM: 64 kB, VRam: 16 kB, ROM: 32 kB
 - Audio:3-kanałowe stereo; układ AY-3-8912[2]
 - Wyjście audio, 2x złącza kontrolerów cyfrowych, Port kontrolerów analogowych (standard IBM), Złącze Lightgun (RJ11), Wyjście audio i wideo RGB (8-pin DIN), Gniazdo zasilania z zewnętrznego zasilacza, Gniazdo zasilania z monitora.</text>
-			<text lang="fr">La GX-4000 est une console de jeux vidéo 8 bits d'Amstrad mise en vente en 1990. Elle est construite sur une base d'Amstrad CPC Plus et partage donc les mêmes caractéristiques que celui-ci.
-
-En 1989, les CPC se retrouvent complètement dépassés par les nouvelles machines 16 bits. Résultat, les ventes baissent et une réaction s'impose. Roland Perry, concepteur des machines de la marque, se met à l'écoute des principaux développeurs CPC. Il en résulte 3 nouvelles machines : 2 ordinateurs et 1 console.</text>
 			<text lang="ru">8-битная игровая приставка на базе домашнего компьютера Amstrad CPC 6128+, выпущенная британской компанией Amstrad в 1990 году для европейского рынка. Относится к третьему поколению игровых систем.
 
 Особого успеха консоль не имела, её продажи и выпуски игр к ней прекратились уже в 1992 году. Во многих рецензиях Amstrad GX4000 называется крупнейшим или одним из крупнейших провалов в истории игровых систем.
@@ -121,6 +118,16 @@ En 1989, les CPC se retrouvent complètement dépassés par les nouvelles machin
 			<text lang="it">Il GX4000 è una console per videogiochi prodotta da Amstrad. È stato il breve tentativo dell'azienda di entrare nel mercato delle console per videogiochi. La console è stata rilasciata in Europa nel 1990 e si trattava di un progetto aggiornato basato sull'allora ancora popolare tecnologia CPC. Il GX4000 condivideva l'architettura hardware con la linea di computer CPC Plus di Amstrad, rilasciata in contemporanea. Questo permise al sistema di essere compatibile con la maggior parte del software del CPC Plus.
 
 Il GX4000 fu il primo e unico tentativo di Amstrad di entrare nel mercato delle console. Sebbene offrisse capacità grafiche migliorate, non riuscì a conquistare la popolarità del mercato e fu rapidamente dismesso, con un totale di 15.000 unità vendute.</text>
+			<text lang="fr">Type : console de salon
+Génération : troisième
+Média : cartouche
+Contrôleur(s) : manette à touches directionnelles & 2 boutons
+
+La GX-4000 est une console 8 bits d'Amstrad mise en vente en 1990.
+Elle est construite sur une base d'Amstrad CPC Plus et partage donc les mêmes caractéristiques que celui-ci : un processeur 4 MHz, 64 Ko de RAM, un son à 3 voies stéréo et un affichage de 160 x 200 pixels en 31 couleurs sur 4096 avec 16 sprites en 15 couleurs chacun.
+
+Mais, arrivant en fin de troisième génération, elle est déjà dépassée pour les premières consoles 16-bits arrivants sur le marché. Par ailleurs, le prix des jeux, essentiellement hérités du CPC, sont bien plus chers que les jeux NES.
+Résultat, les ventes baissent et une réaction s'impose. Roland Perry, concepteur des machines de la marque, se met à l'écoute des principaux développeurs CPC. Il en résulte 3 nouvelles machines : 2 ordinateurs et 1 console.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

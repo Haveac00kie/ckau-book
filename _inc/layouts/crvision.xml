@@ -104,6 +104,15 @@ Konsola CreatiVision posiadała 8-bitowy procesor Rockwell 6502 o prędkości 2 
 Il CreatiVision è stato distribuito in molti paesi europei, tra cui la maggior parte dei paesi di lingua tedesca come la Germania Ovest, l'Austria e la Svizzera e anche l'Italia, in Sudafrica, in Israele con il nome Educat 2002 e in Australia e Nuova Zelanda con il nome Dick Smith Wizzard.
 
 La console CreatiVision era dotata di una CPU Rockwell 6502 a 8 bit con una velocità di 2 MHz, 1KB di RAM e 16KB di Video RAM, e aveva una risoluzione grafica di 256 × 192 con 16 colori e 32 sprite. La console era dotata di due controller integrati joystick/tastiera a membrana (come il ColecoVision e l'Atari 5200) che, se inseriti in un apposito scomparto sulla parte superiore della console, potevano essere utilizzati come tastiera del computer.</text>
+			<text lang="fr">Type : console de salon
+Génération : deuxième
+Média : cartouche
+Contrôleur(s) : stick & clavier membrane
+
+La VTech CreatiVision est un hybride d'ordinateur et de console de jeu. Equipée d'un processeur 8-bit à 2 MHz, 1 Ko de mémoire vive et 16 Ko de mémoire vidéo, elle affiche une résolution de 256 x 192 pixels avec 16 couleurs et 32 sprites.
+Elle intègre deux contrôleurs à membrane qui, une fois logés dans leur compartiment, peuvent être utilisés comme un clavier d'ordinateur ou comme joystick une fois détachés.
+
+Le modèle Mark-2 sera équipé d'un module permettant de jouer aux jeux ColecoVision.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>
